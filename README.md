@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/cd20-design-banner.svg" alt="Canine CD20 Design — multi-reference CDR design and structural comparison" width="100%">
-</p>
-
 <h1 align="center">Canine CD20 Design</h1>
 
 <p align="center">
@@ -27,9 +23,24 @@
 
 This study starts from **seven human CD20–antibody reference complexes** and redesigns antibody CDRs against **canine CD20**. Each reference is processed separately through two generation routes, followed by the same three structure predictors. The interactive report connects the input structures, design constraints, candidate sequences, comparison definitions, and findings.
 
-| Reference complexes | Generation routes | Candidate VH/VL pairs | Canonical predictions |
-| :---: | :---: | :---: | :---: |
-| **7** | **2** | **140** | **966** |
+<table align="center">
+  <thead>
+    <tr>
+      <th align="center">Reference complexes</th>
+      <th align="center">Generation routes</th>
+      <th align="center">Candidate VH/VL pairs</th>
+      <th align="center">Canonical predictions</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>7</strong></td>
+      <td align="center"><strong>2</strong></td>
+      <td align="center"><strong>140</strong></td>
+      <td align="center"><strong>966</strong></td>
+    </tr>
+  </tbody>
+</table>
 
 ## Study workflow
 
@@ -87,7 +98,6 @@ Open **http://127.0.0.1:8000/**. The main HTML is approximately 42 MB because it
 index.html                   Self-contained interactive research report
 teaching.html                Teaching notes
 6vja/                        Reference viewer, coordinates, and PyMOL assets
-docs/cd20-design-banner.svg   Repository cover
 publication-manifest.json    Published file identities and checksums
 ```
 

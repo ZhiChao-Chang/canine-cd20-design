@@ -54,12 +54,8 @@
       "sha256": "1aa4b02846f91f4d8c9edfe17572df777ee75171bb14d8ad28e4c0b2864c2ccf"
     },
     "README.md": {
-      "bytes": 5900,
-      "sha256": "a9ef65b3192d01a16b05ff09c05e2f30c86e1836b8d565d6441e281f4a9c089e"
-    },
-    "docs/cd20-design-banner.svg": {
-      "bytes": 2535,
-      "sha256": "cd73b4c3aa6c5662a7a1e339cafcc65423a957f18bc38bb4a098fd5b7e612cf1"
+      "bytes": 6041,
+      "sha256": "3354d69dec49eda713bbed31edc06f2de4d6eab610df8c732d0f4cf631c396f8"
     },
     "index.html": {
       "bytes": 41569909,
@@ -71,7 +67,7 @@
     }
   },
   "reader_mode": true,
-  "updated_at_utc": "2026-11-14T13:17:50.006666+00:00",
+  "updated_at_utc": "2026-11-14T13:58:01.246804+00:00",
   "url": "https://zhichao-chang.github.io/canine-cd20-design/",
   "title": "Canine CD20 Design",
   "snapshot_sha256": "4167e9a5c5cb7f40696e573fdc4e73697d8400948eada8d8b5e29264c5d80cd2"
