@@ -17,7 +17,7 @@ The report retains 140 designed VH/VL pairs, a fixed 70-candidate review set, an
 
 This repository contains the verified static presentation. `index.html` embeds the reviewed data, molecular coordinates, and display code. Viewing does not require Python, PyMOL, model weights, a GPU compute server, or a connection to the author's computer. Use a modern browser with WebGL and `DecompressionStream` support.
 
-GitHub Pages publishes the `main` branch from the repository root. `.nojekyll` keeps the supplied static files intact. All supporting files must remain at their relative paths. The initial report download is approximately 42 MB because the full scientific snapshot is included.
+GitHub Pages publishes the `main` branch from the repository root. `.nojekyll` keeps the supplied static files intact. All supporting files must remain at their relative paths. The report uses a presentation-only interface: authoring, ChatGPT, publishing, and theme controls are omitted. Scientific navigation, source inspection, chart export, and molecular interactions remain available. The initial download is approximately 42 MB because the full scientific snapshot is included.
 
 For local viewing:
 

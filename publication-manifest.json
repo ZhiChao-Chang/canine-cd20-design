@@ -4,7 +4,7 @@
   "prepared_at_utc": "2026-11-14T03:05:16.179307+00:00",
   "report_app_id": "report:d57ba836-9ab2-467d-94a4-779d05e0c06e",
   "inference_evidence_cutoff": "2026-11-12",
-  "report_sha256": "e255a93443b3a6f336e70702ef7d0273829f623f594b4f11cb66f1d3a995698a",
+  "report_sha256": "166a5cb53a65fb44e867cbd06f380b5b433b42bca28115a3be089c45548912a0",
   "publication_authorized_by_user": true,
   "model_weights_included": false,
   "raw_partner_fasta_included": false,
@@ -58,12 +58,14 @@
       "sha256": "d0a60706ab5a519c994c0a1c2cb401d2ed963ed85d2e537abe99e90a371c1618"
     },
     "index.html": {
-      "bytes": 42391340,
-      "sha256": "e255a93443b3a6f336e70702ef7d0273829f623f594b4f11cb66f1d3a995698a"
+      "bytes": 41536159,
+      "sha256": "166a5cb53a65fb44e867cbd06f380b5b433b42bca28115a3be089c45548912a0"
     },
     "teaching.html": {
       "bytes": 52510,
       "sha256": "5897d043cb3d10b5c16706a7ce69b03b0223c01829828f9b7f36a0535da24d4e"
     }
-  }
+  },
+  "reader_mode": true,
+  "updated_at_utc": "2026-11-14T04:17:19.073170+00:00"
 }
