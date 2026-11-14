@@ -1,0 +1,212 @@
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>抗体课题教学：编号算法与多参考设计</title><meta name="source-snapshot-sha256" content="68b8d1560b8532fc087fb3a26ace08ac3a97674a473401b8d347e5e6c8614e42"><style>
+:root{color-scheme:light dark;--ink:light-dark(#080808,#fff);--paper:light-dark(#fff,#101010);--wash:light-dark(#f5f5f7,#1c1c1e);--line:light-dark(#dedee5,#39393d);--accent:light-dark(#0071e3,#83bfff);--font:-apple-system,BlinkMacSystemFont,"PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:24px}body{margin:0;background:var(--paper);color:var(--ink);font:16px/1.9 var(--font)}main{max-width:1120px;margin:auto;padding:45px 32px 80px}a{color:var(--accent);text-underline-offset:4px}h1,h2,h3{line-height:1.4;letter-spacing:-.035em;color:var(--ink)}h1{font-size:clamp(32px,4.5vw,52px);font-weight:650;margin:20px 0}h2{font-size:25px;margin:0 0 18px;font-weight:600}h3{font-size:18px;margin:0 0 10px;font-weight:600}p{margin:0 0 17px}p:last-child{margin-bottom:0}strong{font-weight:650}code{font:13px/1.8 var(--font);overflow-wrap:anywhere;background:var(--wash);padding:2px 5px;border-radius:5px;color:var(--ink)}pre{white-space:pre;overflow:auto;background:var(--wash);border-radius:12px;padding:20px;font:13px/1.8 ui-monospace,SFMono-Regular,Consolas,monospace;max-width:100%;color:var(--ink)}pre code{font:inherit;background:none;padding:0}.page-header{max-width:940px;margin-bottom:40px}.eyebrow{font-size:12px;font-weight:650;letter-spacing:.08em;color:var(--ink)}.page-header p{color:var(--ink)}.page-header .intro{font-size:18px;line-height:1.85}.nav-links{display:flex;flex-wrap:wrap;gap:13px 25px;font-size:14px}.stage-label{display:inline-block;margin-top:20px;padding:6px 12px;border:1px solid var(--line);border-radius:20px;font-size:12px}.task-panel{border:1px solid var(--line);border-radius:22px;margin:0 0 24px;overflow:hidden;background:var(--paper)}.task-summary{display:flex;align-items:center;gap:16px;padding:24px 28px;list-style:none;cursor:pointer}.task-summary::-webkit-details-marker{display:none}.task-number{font-size:12px;font-weight:650;white-space:nowrap}.summary-title{font-size:21px;line-height:1.5;font-weight:600;flex:1}.chevron{font-size:26px;font-weight:400}.chevron:before{content:'＋'}.task-panel[open]>.task-summary{border-bottom:1px solid var(--line)}.task-panel[open]>.task-summary .chevron:before{content:'−'}.task-content{padding:35px 32px}.task-panel:not([open])>.task-content{display:none}.task-content>section{margin:0 0 44px}.task-content>section:last-child{margin-bottom:0}.lead{font-size:18px;line-height:1.9}.metric-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:12px;margin:25px 0}.metric,.mini-card,.concept-grid>article{padding:20px;background:var(--wash);border-radius:14px;min-width:0}.metric strong{display:block;font-size:27px;line-height:1.4;letter-spacing:-.04em}.metric span,.metric small{display:block;font-size:12px;margin-top:8px;color:var(--ink)}.note,.bounds,.result-summary{padding:22px;border:1px solid var(--line);border-radius:14px;background:var(--wash);margin:22px 0;color:var(--ink)}.note.caution{border-left:4px solid var(--accent)}.two-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.concept-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:14px;margin:24px 0}.concept-grid p,.mini-card p{font-size:14px}.flow{list-style:none;display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:10px;padding:0;margin:24px 0}.flow a{display:flex;align-items:center;gap:10px;padding:12px;border:1px solid var(--line);border-radius:10px;text-decoration:none;font-size:13px;min-height:55px}.flow b{font-size:12px}.lesson-step{border-top:1px solid var(--line);padding-top:28px}.step-heading{display:flex;align-items:center;gap:15px;margin-bottom:18px}.step-heading h2{margin:0;font-size:23px}.step-index{flex:none;font-size:13px;font-weight:650;border-radius:10px;padding:12px;background:var(--wash)}.function-label{font-size:11px;margin:0 0 4px;color:var(--ink);overflow-wrap:anywhere}.output-line{font-size:14px;padding:15px;background:var(--wash);border-radius:10px;margin-top:20px}.segment-strip{display:flex;flex-wrap:wrap;gap:5px;margin:20px 0}.segment-strip span,.segment-strip em{font-size:12px;padding:7px 10px;font-style:normal;border:1px solid var(--line);border-radius:6px}.segment-strip em{border-color:var(--accent)}.sub-panel{border:1px solid var(--line);border-radius:11px;margin:21px 0;overflow:hidden}.sub-panel>summary{font-size:14px;font-weight:550;cursor:pointer;padding:14px 17px;list-style:none;background:var(--wash)}.sub-panel>summary:after{content:'＋';float:right}.sub-panel[open]>summary:after{content:'−'}.sub-panel>p,.detail-body{padding:16px 18px;font-size:14px}.sub-panel>pre{border-radius:0;margin:0}.sub-panel>.table-scroll{margin:0;border:0;border-radius:0}.table-scroll{overflow:auto;max-width:100%;border:1px solid var(--line);border-radius:10px;margin:20px 0}table{border-collapse:collapse;width:100%;font-size:13px;line-height:1.8}th,td{text-align:left;padding:11px 13px;border-bottom:1px solid var(--line);vertical-align:top;color:var(--ink)}th{font-weight:650;background:var(--wash);white-space:nowrap}tbody tr:last-child td{border-bottom:0}.demo{padding:23px;border:1px solid var(--line);border-radius:14px;margin:22px 0}.demo-heading{display:flex;align-items:center;justify-content:space-between;gap:12px}.tag{font-size:11px;border:1px solid var(--line);border-radius:12px;padding:3px 8px;white-space:nowrap}.demo p{font-size:14px}label{display:block;font-size:13px;font-weight:600}input{display:block;width:100%;margin-top:7px;padding:11px;border:1px solid var(--line);border-radius:8px;background:var(--paper);color:var(--ink);font:16px/1.5 var(--font);letter-spacing:.05em;text-transform:uppercase}.button-row{display:flex;gap:9px;flex-wrap:wrap;margin:15px 0}button,.primary-link{font:550 13px/1.6 var(--font);padding:10px 15px;border:1px solid var(--accent);border-radius:20px;background:var(--accent);color:var(--paper);cursor:pointer;text-decoration:none;display:inline-block}button.secondary{background:var(--paper);color:var(--ink);border-color:var(--line)}.muted,.alignment-grid caption{font-size:12px!important;color:var(--ink)}.alignment-grid{width:auto}.alignment-grid th,.alignment-grid td{text-align:center;min-width:32px;padding:7px;border:1px solid var(--line)}.alignment-grid .path{background:var(--wash);font-weight:700;outline:1px solid var(--accent);outline-offset:-1px}.alignment-grid caption{text-align:left;padding:12px}.formula{padding:20px;border:1px solid var(--line);border-radius:12px;text-align:center;margin:22px 0}.form-error{font-size:13px;border-left:3px solid var(--accent);padding:12px;background:var(--wash)}li{margin-bottom:8px}footer{font-size:12px;line-height:1.8;padding-top:20px;color:var(--ink)}a:focus-visible,button:focus-visible,input:focus-visible,summary:focus-visible{outline:3px solid var(--accent);outline-offset:4px}[hidden]{display:none!important}
+@media(max-width:760px){main{padding:27px 17px 50px}.task-summary{padding:20px 18px;gap:10px}.summary-title{font-size:18px}.task-content{padding:26px 19px}.metric-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.metric{padding:15px}.metric strong{font-size:23px}.two-columns,.concept-grid{grid-template-columns:minmax(0,1fr)}.flow{grid-template-columns:repeat(2,minmax(0,1fr))}.flow a{font-size:12px;padding:10px}.step-heading h2{font-size:21px}.lead,.page-header .intro{font-size:16px}h2{font-size:23px}.step-heading{align-items:flex-start}.demo{padding:17px}.demo-heading{align-items:flex-start}.note,.bounds,.result-summary{padding:18px}pre{font-size:12px;padding:16px}.formula{text-align:left;font-size:14px}.page-header{margin-bottom:30px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}@media print{main{max-width:none;padding:0}.nav-links,.button-row{display:none}.task-panel{border-radius:0}.task-content{padding:24px 0}.task-panel:not([open])>.task-content{display:none}.lesson-step{break-before:auto}}
+</style></head><body><main><header class="page-header"><p class="eyebrow">抗体合作课题 · 教学说明</p><h1>编号算法与多参考抗体设计</h1><p class="intro">本页从概念、输入输出和实际操作解释两项任务。编号部分默认展开；只有打开第二任务，才显示设计教程。科研汇报使用另一页，数据仍来自同一份已验收快照。</p><nav class="nav-links" aria-label="教学导航"><a href="#task-numbering">任务一：自编编号</a><a href="#task-design">任务二：抗体设计</a><a href="./index.html">打开科研展示页 →</a></nav><span class="stage-label">扩展实验已完成 · 证据截点 2026-11-12 09:43（北京时间）</span></header><details class="task-panel" id="task-numbering" open><summary class="task-summary"><span class="task-number">任务一</span><span class="summary-title">自编抗体编号：序列怎样对应标准位置</span><span class="chevron" aria-hidden="true"></span></summary><div class="task-content"><section class="lesson-intro" aria-labelledby="numbering-intro">
+  <p class="eyebrow">任务一 · 当前冻结的自编编号实现</p>
+  <h2 id="numbering-intro">一条抗体序列，怎样变成五套标准编号？</h2>
+  <p class="lead">当前实现是一套<strong>基于公开框架参考、动态规划比对和编号规则的离线算法</strong>。核心代码由本仓库实现；运行不调用 ANARCI、ANARCII 或网站逐序列编号接口，也没有神经网络训练阶段。</p>
+  <div class="metric-grid" aria-label="编号任务验收范围">
+    <div class="metric"><strong>184</strong><span>原始批次有效输入</span><small>另31条正文含星号，按要求暂跳过</small></div>
+    <div class="metric"><strong>920 / 920</strong><span>本批五体系坐标一致</span><small>开发／回归数据，不是独立盲测</small></div>
+    <div class="metric"><strong>20 / 20</strong><span>最终公开独立测试</span><small>4条新重／轻链；样本规模较小</small></div>
+    <div class="metric"><strong>15 项</strong><span>关键行为测试通过</span><small>另有禁网、无答案缓存的隔离复跑</small></div>
+  </div>
+  <p>原始215条中，31条含终止符暂跳过；有效输入中181条可编号、3条未分类。920组比较也包含未分类输入对应的空输出，不表示所有有效输入都得到完整编号。</p><div class="note"><strong>先分清三件事。</strong>编号体系是位置命名规则；算法判断序列与标准位置怎样对应；与 abYsis 一致是软件兼容证据。编号结果不是逐残基实验真值，本批全匹配也不证明覆盖所有抗体。</div>
+</section>
+
+<section aria-labelledby="architecture-title">
+  <h2 id="architecture-title">先看整体结构</h2>
+  <p>程序先提出几种可能的分段方式，再按框架相似度选择，最后映射框架标签、计算环区标签。箭头表示计算先后，不表示模型训练。</p>
+  <ol class="flow" aria-label="算法计算流程">
+    <li><a href="#step-1"><b>01</b>清理输入</a></li><li><a href="#step-2"><b>02</b>读取公开框架</a></li><li><a href="#step-3"><b>03</b>枚举区域边界</a></li><li><a href="#step-4"><b>04</b>动态规划比对</a></li><li><a href="#step-5"><b>05</b>选择分段方案</a></li><li><a href="#step-6"><b>06</b>映射框架编号</a></li><li><a href="#step-7"><b>07</b>生成环区编号</a></li><li><a href="#step-8"><b>08</b>附上参考频率</a></li><li><a href="#step-9"><b>09</b>输出与验收</a></li>
+  </ol>
+  <div class="two-columns">
+    <div class="mini-card"><h3>常驻参考资料</h3><p>五条公开编号框架与按位点统计的氨基酸计数。框架资料里的环区序列和标签已遮蔽，供程序计算新输入的位置对应关系。</p></div>
+    <div class="mini-card"><h3>开发／验收资料</h3><p>本批及公开样例的网站回执用于对照。原始184条参与过规则调试，历史失败保留；最终独立测试在代码冻结后取得参考。</p></div>
+  </div>
+</section>
+
+<section class="lesson-step" id="step-1" aria-labelledby="step-1-title">
+  <div class="step-heading"><span class="step-index">01</span><div><p class="function-label">read_fasta()</p><h2 id="step-1-title">清理格式，同时保留“原来在哪里”</h2></div></div>
+  <p>输入是FASTA记录的名称和序列。程序把字母转成大写，移除对齐横线 <code>-</code>，把 <code>?</code> 表示为未知残基 <code>X</code>。正文含 <code>*</code> 按本次要求跳过；名称里的 <code>*01</code> 不触发跳过。</p>
+  <pre><code>原始字符： A  -  C  ?  D
+原始位置： 1  2  3  4  5
+
+计算序列： A     C  X  D
+计算位置： 1     2  3  4
+位置映射： 1 → 1，2 → 3，3 → 4，4 → 5</code></pre>
+  <p>例如，计算序列第2个残基C来自原文件第3个字符。后面的编号必须能回到这个原始位置，不能因为移除了横线就错位。</p>
+  <p class="output-line"><strong>输出：</strong><code>raw_sequence</code>、<code>normalized_sequence</code>、<code>source_indices</code> 和处理状态。</p>
+</section>
+
+<section class="lesson-step" id="step-2" aria-labelledby="step-2-title">
+  <div class="step-heading"><span class="step-index">02</span><div><p class="function-label">AnchorNumberer.__init__()</p><h2 id="step-2-title">读取已经知道位置的公开框架</h2></div></div>
+  <p>参考资料既有框架的氨基酸字母，也有这些位置在五种体系下的标签。算法之后要判断“输入里的哪个残基，对应参考里的哪个残基”。</p>
+  <div class="table-scroll"><table><thead><tr><th>参考字段</th><th>含义</th></tr></thead><tbody><tr><td><code>chain / light_subtype</code></td><td>重链H，或κ／λ轻链</td></tr><tr><td><code>sequence</code></td><td>公开框架字母；被遮蔽的环区用X占位</td></tr><tr><td><code>segments</code></td><td>各框架在参考资料里的区间</td></tr><tr><td><code>labels</code></td><td>Kabat、Chothia、IMGT、Martin、AHo的框架标签；环区为空</td></tr></tbody></table></div>
+  <p>当前五个框架来自6VJA的VH/VL、6XDG的REGN10987 VL、1N8Z VH和2VIR VL。这些是公开参考，不是本批184条输入的答案表。<strong>框架标签会沿比对关系映射，环区标签由后面的规则生成。</strong></p>
+  <p class="output-line"><strong>输出：</strong>经过格式检查、可供后续比对的框架参考集合。</p>
+</section>
+
+<section class="lesson-step" id="step-3" aria-labelledby="step-3-title">
+  <div class="step-heading"><span class="step-index">03</span><div><p class="function-label">locate()</p><h2 id="step-3-title">提出候选分段，而不是直接指定一套答案</h2></div></div>
+  <p>程序尝试不同重／轻链参考、候选锚点和区域长度。它利用C、W等保守特征，以及后部的YYC类模式。当前YYC候选需要三个字符至少两个相符；第一处候选不是C仍可继续，有C则加分。</p>
+  <div class="segment-strip" aria-label="序列区域示意"><span>框架1</span><em>环处理段1</em><span>框架2</span><em>环处理段2</em><span>框架3</span><em>环处理段3</em><span>框架4</span></div>
+  <p>例如，程序会检验：“如果这里是第一处锚点，后面10个残基属于第一个处理段，再往后是框架2，这些框架能不能与公开参考对应？”每个可行假设都会进入评分。</p>
+  <details class="sub-panel"><summary>查看当前实现的搜索边界</summary><div class="table-scroll"><table><thead><tr><th>处理段</th><th>当前搜索范围</th></tr></thead><tbody><tr><td>重链第一个环处理段</td><td>10—12个残基</td></tr><tr><td>轻链第一个环处理段</td><td>10—17个残基</td></tr><tr><td>重链第二个环处理段</td><td>15—19个残基</td></tr><tr><td>轻链第二个环处理段</td><td>7个残基</td></tr><tr><td>框架2长度</td><td>重链13或14；轻链15</td></tr><tr><td>框架3长度</td><td>重链30；轻链32</td></tr></tbody></table></div><p>这是当前代码的搜索范围，不是所有抗体必须满足的自然规律。范围外的输入可能未识别或误判。某些“环处理段”还包含两侧锚定残基，不能把它们直接当成所有编号体系下完全相同的CDR边界。</p></details>
+  <p class="output-line"><strong>输出：</strong>若干组候选框架边界、环区长度和重／轻链解释。</p>
+</section>
+
+<section class="lesson-step" id="step-4" aria-labelledby="step-4-title">
+  <div class="step-heading"><span class="step-index">04</span><div><p class="function-label">align() / framework_alignment()</p><h2 id="step-4-title">用动态规划寻找残基对应关系</h2></div></div>
+  <p>把候选框架与参考框架对齐时，需要允许某处残基缺失，避免后面全部错位。我们实现的是Needleman–Wunsch动态规划：每格比较“两个残基相配”“参考残基在输入中缺失”“输入多出一个残基”三条路径，再回溯最高分路径。</p>
+  <pre><code>参考：A C D E F G
+输入：A C D - F G
+
+相同 +3；不同 −1；涉及未知X为0；普通缺口 −5。
+这个例子有5个相同残基和1个缺口，总分：5 × 3 − 5 = 10。</code></pre>
+  <p>矩阵里的每个格子存的是“走到这两个前缀时的最好累计分”。同分时采用固定的对角优先顺序，保证结果可重复。分数是程序的比较标准，<strong>不是正确概率</strong>。</p>
+  <div class="demo" aria-labelledby="alignment-demo-title">
+    <div class="demo-heading"><h3 id="alignment-demo-title">动手试一段框架比对</h3><span class="tag">本页离线演示</span></div>
+    <p>改动下面的短序列，再看缺口和分数怎样变化。这只演示普通框架比对，不会运行完整抗体编号，也不包含特殊端部规则。</p>
+    <form id="alignment-form">
+      <div class="two-columns"><label>参考序列<input id="reference-input" value="ACDEFG" maxlength="24" autocomplete="off" spellcheck="false" aria-describedby="demo-instructions"></label><label>输入序列<input id="query-input" value="ACDFG" maxlength="24" autocomplete="off" spellcheck="false" aria-describedby="demo-instructions"></label></div>
+      <p id="demo-instructions" class="muted">接受20种标准氨基酸字母和X，每段最多24个字符。</p>
+      <div class="button-row"><button type="submit">计算比对</button><button type="button" id="unknown-example" class="secondary">试一个带X的示例</button><button type="button" id="reset-example" class="secondary">恢复缺失示例</button></div>
+    </form>
+    <p id="demo-error" class="form-error" role="alert" hidden></p>
+    <div id="alignment-result" aria-live="polite"><p><strong>最高比对分：<span id="alignment-score">10</span></strong></p><pre id="alignment-text">参考：ACDEFG
+输入：ACD-FG</pre></div>
+    <details class="sub-panel"><summary>查看逐格评分矩阵</summary><div id="alignment-matrix" class="table-scroll"></div><p class="muted">浅色格子标出回溯路径。横轴为输入前缀，纵轴为参考前缀；矩阵随上面的示例一起更新。</p></details>
+  </div>
+  <p>真实算法还对端部作特殊处理：开头被截短时降低参考开头缺失的惩罚；框架4末端截短时保留前缀对应，不把剩余残基拉到完整参考的最后位置。它们都是手工写入的规则，不是训练出来的能力。</p>
+  <p class="output-line"><strong>输出：</strong>比对分数，以及“参考第i个残基对应输入第j个残基”的配对列表。</p>
+</section>
+
+<section class="lesson-step" id="step-5" aria-labelledby="step-5-title">
+  <div class="step-heading"><span class="step-index">05</span><div><p class="function-label">locate() 的候选评分与选择</p><h2 id="step-5-title">把局部证据合在一起，选择一套分段</h2></div></div>
+  <p>候选分段必须让各框架都有足够相似度。当前每段平均比对分至少0.2，全部框架的平均比对分至少0.45；通过后再加入锚点及轻链类型支持。</p>
+  <div class="table-scroll"><table><thead><tr><th>证据</th><th>当前处理</th></tr></thead><tbody><tr><td>第一处候选为C</td><td>加6分</td></tr><tr><td>对应候选为W</td><td>加3分</td></tr><tr><td>轻链末端模式支持κ／λ类型</td><td>相符加12分，相反减12分</td></tr><tr><td>综合排序</td><td>框架分、锚点与类型支持相加，再除以框架总长度</td></tr></tbody></table></div>
+  <p>程序选综合分最高的一套解释。同分时按固定顺序处理，不代表存在生物学上的唯一答案。这些分值和阈值由开发调试确定，没有经过神经网络训练。当前没有把多个接近候选的分差校准为概率。</p>
+  <p>内部的临时缓存只保存本次序列已经算过的框架分数，避免重复计算；它不保存网站给本批输入的编号答案。</p>
+  <p class="output-line"><strong>输出：</strong>所选重／轻链、κ／λ参考、各框架边界与三个环处理段的范围。</p>
+</section>
+
+<section class="lesson-step" id="step-6" aria-labelledby="step-6-title">
+  <div class="step-heading"><span class="step-index">06</span><div><p class="function-label">number() 的框架映射</p><h2 id="step-6-title">沿对齐关系，继承框架的标准位置</h2></div></div>
+  <p>假设参考中的某个残基在Kabat下叫H22、在IMGT下叫H23。比对发现输入中的某个残基与它对应，那么输入残基就分别获得这两个标签。</p>
+  <pre><code>输入残基 → 对齐到参考位置 → 读取该位置的体系标签
+                              ├─ Kabat标签
+                              ├─ Chothia标签
+                              ├─ IMGT标签
+                              ├─ Martin标签
+                              └─ AHo标签</code></pre>
+  <p><strong>框架位置不是每次从零推导。</strong>它们来自公开编号参考，经输入相关的比对转移。Martin等体系在框架插入位置的差异，也通过各自的标签表体现。</p>
+  <p class="output-line"><strong>输出：</strong>五个与输入等长的位置数组，框架部分已有标签，其他位置暂为空。</p>
+</section>
+
+<section class="lesson-step" id="step-7" aria-labelledby="step-7-title">
+  <div class="step-heading"><span class="step-index">07</span><div><p class="function-label">loop_labels() / centered()</p><h2 id="step-7-title">按长度和体系规则，计算环区标签</h2></div></div>
+  <p>环区不能直接复制参考答案。程序根据重／轻链、处理段序号、长度、编号体系、轻链类型和后续框架是否完整，选择具体规则。</p>
+  <p>例如，重链第一个处理段有12个残基时，当前两套规则给出：</p>
+  <pre><code>Kabat：   26 27 28 29 30 31 32  33  34 35 35A 35B
+Chothia： 26 27 28 29 30 31 31A 31B 32 33 34  35</code></pre>
+  <p>残基顺序不变，插入标签的位置不同。IMGT的一些处理段采用中心留空；在105—117这个13位置区间安排8个残基时，当前函数生成：</p>
+  <pre><code>105 106 107 108  ……中间留空……  114 115 116 117</code></pre>
+  <p>更长且已支持的环会生成插入标签，例如网站使用的 <code>112.1</code>。它是位置名称，不是概率。AHo的一些轻链规则还会区分κ和λ。</p>
+  <div class="note caution"><strong>显式网站兼容行为。</strong>对一类19残基Kabat H2段，保存的网站回执只给出前部AHo标签。本实现按该观察行为在后部留空，并保存 <code>compatibility_notes</code>。这不是普通AHo标准的普遍定义，也不代表得到完整的生物学编号。</div>
+  <p>未支持的体系情况单独返回 <code>unsupported</code>；未找到合适域返回 <code>unclassified</code>。定位到一个域不等于五套编号都成功，未识别也不等于“它不是抗体”。</p>
+  <p class="output-line"><strong>输出：</strong>各体系的位置数组、处理状态及兼容提示。</p>
+</section>
+
+<section class="lesson-step" id="step-8" aria-labelledby="step-8-title">
+  <div class="step-heading"><span class="step-index">08</span><div><p class="function-label">FrequencyTables.lookup()</p><h2 id="step-8-title">编号完成后，再附上参考频率</h2></div></div>
+  <p>这一层使用“编号体系＋标准位置”选择公开统计表，再读取当前氨基酸的计数。它与前面的编号计算分开。</p>
+  <div class="formula">参考频率 ＝ 该位置出现此氨基酸的计数 ÷ 该位置参考总计数 × 100%</div>
+  <p>当前沿用 <code>All</code> 和包含gap的总计数口径，输出保留计数比精度，验收按网站两位小数显示比较。没有重新采集一个独立抗体数据库，因此同一计数算出相同频率是预期结果，不能充当额外的编号正确证据。</p>
+  <p>没有编号位置、残基为X、统计表缺失或总计数为空时，明确留空并标记状态；不会填0假装有统计，也不会把频率当成“编号正确概率”。</p>
+  <p class="output-line"><strong>输出：</strong>参考频率、频率状态，以及统计表来源与文件哈希。</p>
+</section>
+
+<section class="lesson-step" id="step-9" aria-labelledby="step-9-title">
+  <div class="step-heading"><span class="step-index">09</span><div><p class="function-label">main() / 独立审计程序</p><h2 id="step-9-title">保存结果，再与参考逐项比较</h2></div></div>
+  <p>写出结果前，检查数组长度与输入对应、非空编号不重复。CSV保存原始／清理后索引、残基、五体系位置和频率；JSON保存分段、所选公开框架、处理状态和哈希。哈希用于追溯文件变化，不用于按输入查答案。</p>
+  <p><strong>推理结束后</strong>，另一个审计程序才读取本批网站逐序列回执，比较位置和频率。这与推理时读取公开框架资料是两个不同用途。</p>
+  <div class="two-columns"><div class="mini-card"><h3>开发／回归核验</h3><p>184条有效输入、920组编号坐标全部一致。87,930个有定义频率按两位小数一致；3,085行未知或无统计，留空。这批数据参与过开发。</p></div><div class="mini-card"><h3>独立与隔离检查</h3><p>最终冻结后4条公开重／轻链的20组一致，不能外推所有罕见情况。移除历史答案、禁网、禁现成模型并禁用site-packages后，重新得到91,015行一致输出。</p></div></div>
+  <p class="output-line"><strong>输出：</strong>结果文件、逐项差异表、测试记录与验收范围；软件执行成功与生物学正确性分别判断。</p>
+</section>
+
+<section class="bounds" aria-labelledby="limits-title">
+  <h2 id="limits-title">读结果时，需要保留的边界</h2>
+  <p>这是一套有限规则的自编实现。它能在当前支持的形式中寻找“现有评分规则下最好的对应”，不保证任何输入的最高分对应都正确。极端环长、罕见框架插入缺失、严重变异或多域串联仍需扩展与独立核验。</p>
+  <p>本页对应当前自编离线实现；旧工具调用和缓存回放版本仅保留供追溯，不参与当前推理。最终公开测试规模较小。</p>
+</section>
+
+<section><h2>编号任务与设计任务怎样衔接？</h2><p>先给每个公开亲本的VH/VL独立编号，再按IMGT的27—38、56—65、105—117区间选出六个CDR的构建体索引。标准位置与原序列索引不是同一列；不同亲本得到的允许位点也不同，不能机械复制一个亲本的索引。</p><p>本轮生成后重新编号，279/280条链的CDR边界与原设计条件一致。有1条候选含自动编号例外：8VGN来源的一条BoltzGen轻链在CDR3中出现较早的FGFG类框架锚点，当前编号器返回unsupported。生成框架仍保留，后续按已冻结的亲本位置掩码分析，并明确标注，不改算法或删记录凑通过。</p><p>这也说明：复现指定批次与支持所有新序列是两个范围。原始任务目标已经达到，泛化仍有可改进之处。</p><details class="sub-panel"><summary>查看本机源码和证据位置</summary><div class="detail-body"><ul><li><code>src/antibody_numbering/engine.py</code>：定位、框架比对、五体系位置与环区规则。</li><li><code>scripts/number_antibodies_independent.py</code>：输入清理、原始索引、参考频率和输出。</li><li><code>data/reference/independent_numbering_public_20261109/framework_templates.json</code>：五条公开框架参考。</li><li><code>results/numbering_independent_v1_20261109_final/</code>：原批次输出及说明。</li><li><code>results/cd20_multireference_20261112/renumbering_audit.json</code>：本轮生成后的重编号诊断。</li></ul><p>这些是项目内路径；本地预览不会自动公开整个项目的源文件。</p></div></details></section></div></details><details class="task-panel" id="task-design"><summary class="task-summary"><span class="task-number">任务二</span><span class="summary-title">犬CD20抗体设计：独立参考、生成、复预测与结论</span><span class="chevron" aria-hidden="true"></span></summary><div class="task-content design-content"><section class="lesson-intro"><p class="eyebrow">任务二 · 多参考扩展</p><h2>先分清三个对象：靶点、亲本和新候选</h2><p class="lead">我们要改变的是抗体识别端的序列，希望它能够识别犬CD20；CD20本身是被识别的靶点，不带抗体的VH、VL或CDR。</p><div class="concept-grid"><article><h3>靶点：犬CD20</h3><p>UniProt <strong>Q3C2E2</strong>，全长297个氨基酸。它是膜蛋白。本轮预测输入使用46—210位核心，不把全长297位都称为胞外区。</p></article><article><h3>亲本：已有抗体的识别端</h3><p>Rituximab、Ofatumumab、Obinutuzumab等已有抗体可在公开的人源CD20复合物中找到。我们从对应实验结构提取配对VH/VL，作为各参考的设计起点。</p></article><article><h3>候选：亲本的CDR变体</h3><p>在固定框架序列和链长度的前提下，工具提出新的CDR序列。它们需要再预测和检验，不能因为来自药物亲本就当成已经有效的药物。</p></article></div><p><strong>P11836是人源CD20。</strong>材料给它，是为了参考已有“人CD20＋抗体”的结合结构；我们的新靶点仍是犬CD20。人源参考提供已知的空间背景，并不证明原抗体或新候选会结合犬靶点。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">01</span><h2>抗体的VH/VL、框架和CDR分别是什么？</h2></div><p>常见完整IgG由两条重链和两条轻链组成。每条链都有可变部分和恒定部分；重链可变域叫VH，轻链可变域叫VL。一对VH/VL组成一个Fv识别端。每个可变域含三个CDR，合起来是六个常参与识别的环区；其余框架区域帮助维持整体折叠。</p><div class="segment-strip"><span>VH：框架1</span><em>CDR1</em><span>框架2</span><em>CDR2</em><span>框架3</span><em>CDR3</em><span>框架4</span></div><div class="segment-strip"><span>VL：框架1</span><em>CDR1</em><span>框架2</span><em>CDR2</em><span>框架3</span><em>CDR3</em><span>框架4</span></div><p>这是区域关系示意，不是按实际残基长度绘制的结构。CDR边界还取决于编号体系。本轮使用自编程序的IMGT映射，不把序列第51位直接当作IMGT第51位。</p><p>现成药物不是只有VH/VL。我们只截取实际可见的可变域，统一为两个CD20核心加一对VH/VL的四链体系，没有完整Fab、第二个协同Fab、Fc或犬源化工程；因而也没有保留原药完整的装配和功能。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">02</span><h2>为什么采用多个独立参考？</h2></div><p>不同抗体可能以不同区域和朝向识别人CD20；同一种抗体也有不同实验装配或坐标覆盖。只做一个Rituximab参考，不能观察换起点后结论是否仍成立。本轮把每个参考单独准备输入、生成候选和整理结果，不融合不同抗体的序列或坐标。</p><div class="table-scroll"><table><thead><tr><th scope="col">实验参考</th><th scope="col">抗体来源</th><th scope="col">分辨率</th><th scope="col">候选对</th><th scope="col">保留复核</th><th scope="col">跨模型Fv中位差异 / Å</th></tr></thead><tbody><tr><td>6VJA</td><td>Rituximab</td><td>3.3 Å</td><td>20</td><td>10</td><td>21.1</td></tr><tr><td>6Y90</td><td>Rituximab</td><td>3.69 Å</td><td>20</td><td>10</td><td>21.6</td></tr><tr><td>6Y92</td><td>Ofatumumab</td><td>4.73 Å</td><td>20</td><td>10</td><td>22.0</td></tr><tr><td>6Y97</td><td>Obinutuzumab</td><td>4.33 Å</td><td>20</td><td>10</td><td>19.6</td></tr><tr><td>6Y9A</td><td>Obinutuzumab</td><td>4.2 Å</td><td>20</td><td>10</td><td>22.9</td></tr><tr><td>8VGN</td><td>Rituximab</td><td>2.5 Å</td><td>20</td><td>10</td><td>22.0</td></tr><tr><td>8VGO</td><td>Rituximab.4DS</td><td>2.6 Å</td><td>20</td><td>10</td><td>23.9</td></tr></tbody></table></div><p>七个条目覆盖三种治疗抗体，加一个Rituximab.4DS工程化来源，不是七种不同药物，也不是七个独立生物学重复。6Y97/6Y9A的末端坐标覆盖不同，8VGO属于工程化来源；保留各自实际可见的Fv，没有从别的模板补齐缺失端部。</p><details class="sub-panel"><summary>为什么没有把所有查到的抗CD20条目都一起做？</summary><div class="detail-body"><p>检索中还可见短肽复合物、单独抗体或Fc片段，例如C2H7相关短肽结构。它们不能直接提供同样的完整CD20核心装配；若拿另一个参考拼接，就会额外引入跨模板假设。因此本轮选择有核心与配对抗体空间上下文的七个复合物。这个范围不等于全世界所有抗CD20结构的穷尽集合。</p></div></details></section><section class="lesson-step"><div class="step-heading"><span class="step-index">03</span><h2>怎样把人源参考用于犬靶点？</h2></div><p>先读取犬CD20的AFDB单体预测，再分别拟合到每个人源实验参考的两个CD20亚基上，转移出该参考条件下的犬靶点起始装配。亲本VH/VL来自这个参考自己的抗体链，而非我们凭空生成，也不是CD20带来的片段。</p><p>46—210位是统一的165残基核心，保留跨膜骨架及相关胞外部分，便于控制模型输入规模和比较条件；这不是老师指定的唯一自然截点。胞外是细胞膜外侧的部分，抗体在细胞外识别时应能接近它。本轮按冻结的UniProt标注，接触评估只看犬序列73—75、144—188位与CDR的关系，不把整个核心都当成胞外。</p><p>这个二聚体与起始抗体位置是同源转移得到的近似，不是犬CD20实验结合真值；也没有显式脂质膜。人源对照使用相同简化构建，因此检查的是该设定下能否接近实验参考，不是完整原实验的严格重现。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">04</span><h2>编号结果怎样变成设计掩码？</h2></div><p>对每个亲本的VH/VL运行任务一的自编编号器。按IMGT标准位置范围确定六CDR，再把它们转换回这一条构建体的1起始序列索引。允许改动的索引就是掩码；掩码外的框架序列必须保留，两条链的长度也固定。</p><p>这样，编号算法解决“哪一位叫什么、属于哪一区”，生成模型解决“允许的位置可以换成哪些氨基酸/构象”。两个角色不同；自编编号器不负责直接预测新抗体的结合能力。</p><p>Rituximab框架的新掩码与旧ANARCII映射有一位差异，轻链构建体第51个残基S从旧CDR2掩码改为框架（自编IMGT标签L66），所以该亲本设计位点47→46。这里不能机械推到其他亲本：它们会分别编号，设计位点可能是48或50。七参考本轮输入已经使用各自的自编映射。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">05</span><h2>哪些工具生成序列，哪些工具只重新预测？</h2></div><p>本轮加载工具开发者已经训练的参数，执行推理；并未重新训练这些网络。生成新序列、从骨架找序列、从固定序列预测结构、显示坐标，是四种不同操作。</p><div class="table-scroll"><table><thead><tr><th scope="col">工具</th><th scope="col">输入 → 输出</th><th scope="col">本轮作用与特点</th></tr></thead><tbody><tr><td>RFD4</td><td>靶点、框架、可变约束 → 序列/结构候选</td><td>第一条生成路线；在条件约束下提出CDR变体，不是实测结合实验。</td></tr><tr><td>BoltzGen</td><td>靶点与设计规范 → 生成结构及设计产物</td><td>第二条生成路线；本轮只执行design＋inverse_folding，再进入共同的三模型评估。</td></tr><tr><td>SolubleMPNN</td><td>结构骨架 → 适配序列</td><td>接在BoltzGen后的反向折叠步骤。名称不代表已证实可溶，不输出抗体KD。</td></tr><tr><td>AlphaFold 3</td><td>固定分子序列 → 复合物坐标/置信信息</td><td>对已确定候选重新预测；本轮不让标准预测程序直接生成新抗体序列。</td></tr><tr><td>Boltz-2</td><td>固定分子序列 → 复合物坐标/分数</td><td>第二套复预测。它与BoltzGen不是同一步，本轮未把小分子亲和力模块当成抗体KD工具。</td></tr><tr><td>ESMFold2 standard</td><td>固定序列 → 结构/置信信息</td><td>第三套复预测，可单序列使用；本轮使用已部署standard模型。</td></tr><tr><td>PyMOL / 3Dmol.js</td><td>已有坐标 → 静态图、会话、可旋转视图</td><td>负责显示，不产生新序列或新结构证据。网页转动是相机变化，不是分子动力学。</td></tr></tbody></table></div><details class="sub-panel"><summary>再深入一点：生成、反向折叠和前向预测有什么区别？</summary><div class="detail-body"><p><strong>生成设计：</strong>在靶点与固定/可变区域等条件下，从采样状态提出新的序列与结构方案。多次采样产生不同建议，不是训练轮次。</p><p><strong>反向折叠：</strong>先有骨架，再为允许区域提出与几何环境相适配的序列。BoltzGen本轮用到这一方向。</p><p><strong>前向预测：</strong>固定氨基酸序列，推测它可能形成的空间结构和分子间组装。AF3、Boltz-2、ESMFold2给出的仍是预测，不是在实验里观察新抗体。</p><p>PyMOL或网页3Dmol只负责把坐标画出来；转动图片不会改善结构，颜色也不是实测亲和力。</p></div></details></section><section class="lesson-step"><div class="step-heading"><span class="step-index">06</span><h2>怎样从独立生成走到三模型初筛？</h2></div><p>每个参考、每条路线先尝试1条检查输入和产物，再生成9条，种子101/102，共10次预算。七参考、两路线合计140次；本轮得到140对不同VH/VL序列。10是本轮固定计算预算，不是某个公认最佳样本量，也不是模型要求。</p><p>逐条核对H/L身份、长度、框架保留、目标链序列、氨基酸合法性和唯一性。然后固定候选序列，与犬CD20核心一起给三个预测器，不把生成出来的结合姿态当模板传入。</p><p>初筛统一种子42、每例每模型一个样本、空MSA和无模板。MSA是同源序列比对，可提供进化信息；本轮不用它，是明确的运行条件，不等于各工具最佳可能表现，也不代表模型训练时未见过相关公共结构。</p><div class="table-scroll"><table><thead><tr><th scope="col">计算部分</th><th scope="col">例数 × 模型/采样</th><th scope="col">结构预测份数</th></tr></thead><tbody><tr><td>候选初筛与亲本对照</td><td>（140候选＋14亲本）×3模型</td><td>462</td></tr><tr><td>固定保留集合追加采样</td><td>（70候选＋14亲本）×3模型×2额外种子</td><td>504</td></tr><tr><td>最终完整工作量</td><td>初筛＋额外采样，不重复计seed42</td><td>966</td></tr></tbody></table></div><p>14个对照是每参考各一例人源亲本、犬源亲本。它们的抗体序列尚未修改CDR，来自对应PDB亲本；人源对照有已知实验结合背景，犬源对照没有本轮实测结合真值。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">07</span><h2>用哪些指标筛查，为什么这样设？</h2></div><div class="table-scroll"><table><thead><tr><th scope="col">规则</th><th scope="col">为什么设置</th><th scope="col">怎样理解</th></tr></thead><tbody><tr><td>序列、配对、框架和靶点身份核验</td><td>先确认拿到的是要求的构建体</td><td>合法输出不等于会结合。</td></tr><tr><td>胞外CDR重原子距离 &lt;4.5 Å；至少2/3模型支持优先</td><td>避免只接触细胞内/跨膜部位或非CDR位置</td><td>这是宽松的操作性接触门槛，不是最优距离或成功概率。</td></tr><tr><td>&lt;1.5 Å抗原–Fv近接单列</td><td>提示不同组分可能严重穿插</td><td>记录诊断，不在看到结果后临时剔除；也不是完整能量计算。</td></tr><tr><td>每参考、每预测器内部的置信度百分位</td><td>不同模型原始分数未校准，不能直接平均</td><td>百分位表示相对名次，不是编号正确率或结合成功率。</td></tr><tr><td>先对齐CD20，再量Fv姿态RMSD</td><td>比较抗体相对靶点的位置，避免单独叠齐抗体掩盖位移</td><td>单位Å；反映模型一致性，没有犬实验真值时不直接判断谁正确。</td></tr><tr><td>拼接六CDR序列身份 ≤90%；每方法每参考最多5条</td><td>保留一定序列多样性并控制复核规模</td><td>5条是研究整理配额；没有足够合格记录时不凑数。</td></tr></tbody></table></div><p>界面ipTM类分数读取的是抗原—抗体的8个有向链对条目均值，避免VH/VL内部很高的组装分掩盖靶点界面。不同模型的分数未经跨模型校准，不能看到0.3高于0.1就直接认定前者准确。</p><p>RMSD是对应原子坐标的差异，单位Å。本轮先拟合两个CD20，再比较整对Fv的Cα；同序列A/B亚基可交换，因此保留等价映射中的相应较小偏差。没有再次单独拟合Fv去掩盖相对靶点的位移。</p><p>实际排序先看至少2/3接触支持，再按三个模型“各自内部、同一参考内”的百分位中位数排序；同分看跨模型姿态差异和ID，之后逐条应用90% CDR多样性规则。不同参考内部的百分位不混为一个全局最佳药物排名。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">08</span><h2>追加采样回答哪个新问题？</h2></div><p>初筛保留的集合固定后，再用43、44两个种子重新预测，目标是分开观察“同模型换种子”与“同种子换模型”的差异。保留集合每候选最多有三模型×三种子＝九份预测；未保留的70条只有初筛三份，不是每条都做九份。</p><p><strong>当前已验收：</strong>70条候选完成九份预测；候选级同模型跨种子姿态差异中位数12.1 Å，跨模型差异中位数21.4 Å。4.0/4.5/5.0 Å接触阈值下，0条的支持次数发生变化。</p><p>68/70条的跨模型差异大于跨种子差异；但同模型换种子的12.1 Å波动也不能忽略。接触支持次数对阈值稳定，并不意味着预测姿态稳定或已经确认结合。</p><p>先对每候选的成对比较取中位数，再在候选间汇总。这里只描述固定保留集合的观测重复性；样本参与过筛选，不能据此估计无偏的实验成功率，三种子范围也不是统计置信区间。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">09</span><h2>目前结果意味着什么，不能推出什么？</h2></div><div class="result-summary"><h3>已完成的初筛结论</h3><ul><li>指定批次编号已复现；多参考设计已产生140对序列，并形成70条固定计算复核集合。</li><li>初筛140/140条均有至少两个模型接触支持，这一门槛本批没有拉开优先级。</li><li>跨模型Fv姿态差异整体中位数21.6 Å；各参考仍有明显分歧，接触并不能证明放置正确。</li><li>初筛保留集合23/70条至少一份预测有严重近接；当前可用预测合并后为53/70条。采样份数不同，不能把两次“至少一次”比例的差别当作性能升降。</li></ul></div><p>这些数据支持“新工具仍会对同一候选的结合姿态产生不同判断”。它们没有提供犬CD20真实结合结构或亲和力标签，因此不能指定某个预测器必然正确，也不能把保留的前5条叫作实验已有效抗体。扩大参考后的结果仍是计算研究，不是完成了表达、结合或功能实验。</p><p>生物学下一步要分别检查构建体与膜上可接近性、表达、结合和所需功能。当前没有完成完整IgG、Fc、犬源化或这些湿实验步骤；不能把靶点来自犬，等同于抗体本身已犬源化。</p></section><section class="lesson-step"><div class="step-heading"><span class="step-index">3D</span><h2>用本轮结构练习如何读图</h2></div><p>打开下面的三维入口后，可选择七个参考中的保留候选。先看AF3单模型认识CD20、VH、VL和CDR，再切换Boltz-2、ESMFold2及叠合。拖动旋转、滚轮缩放，点击残基可查看构建体索引；CD20另有犬UniProt位置映射。</p><p><a class="primary-link" href="./index.html#structures">打开本轮真实三维结构浏览器 →</a></p><p>三维浏览器明确显示初筛种子42，共70条候选、每条三模型。追加采样先以统计呈现，原始CIF另保存。网页旋转只改变相机；原子相对坐标不变，没有在浏览器里进行分子动力学或重新设计抗体。</p><details class="sub-panel"><summary>三项读图练习</summary><div class="detail-body"><ol><li>切换参考，核对该亲本与候选数；关闭靶点，分辨两条抗体可变链。</li><li>高亮CDR，再看三模型叠合：模型即使都接触CD20，也可能把Fv放在不同位置。</li><li>在候选表查看近接与编号诊断，再下载配对FASTA。判断数据来源、模型一致性和生物学有效性是不同层次。</li></ol></div></details></section><section><h2>数据在哪里，怎样确认是最新一轮？</h2><p>本页数据取自已验收的<code>presentation/src/data.json</code>，阶段为<strong>扩展实验已完成</strong>，证据截点为2026-11-12 09:43（北京时间）。旧单参考教学快照保留，不再作为七参考扩展入口。</p><ul><li><code>results/cd20_multireference_20261112/</code>：本轮总表、逐参考目录、配对FASTA、对齐CIF、PyMOL图与会话。</li><li><code>reports/cd20_multireference_20261112/collection_primary/</code>和<code>collection_final/</code>：规范预测与分数；最终集合只在验收完成后出现。</li><li><code>source_manifest.json</code>及本地验收JSON：逐文件哈希、逐参考分区守恒、序列/分数/几何检查。</li></ul><p><a href="./index.html#comparison">返回科研展示页查看分参考表、图与来源面板 →</a></p></section></div></details><footer><p>教学数据与科研展示同步；生成于2026-11-12 01:57 UTC，不改变证据截点。原单参考教学快照保留在项目历史路径，本页是七参考扩展入口。</p><p>源快照SHA-256：<code>68b8d1560b8532fc087fb3a26ace08ac3a97674a473401b8d347e5e6c8614e42</code>。本页无需上传序列或调用模型服务；查看三维结构请与同目录index.html一起使用。</p></footer></main><script>(function () {
+  'use strict';
+  const second = document.getElementById('task-2');
+  if (second) second.open = false;
+  const form = document.getElementById('alignment-form');
+  if (!form) return;
+  const refInput = document.getElementById('reference-input');
+  const queryInput = document.getElementById('query-input');
+  const message = document.getElementById('demo-error');
+  function runDemo() {
+    const reference = refInput.value.trim().toUpperCase();
+    const query = queryInput.value.trim().toUpperCase();
+    const alphabet = /^[ACDEFGHIKLMNPQRSTVWYX]{1,24}$/;
+    if (!alphabet.test(reference) || !alphabet.test(query)) {
+      message.textContent = '请输入1—24个标准氨基酸字母或X；不要输入空格、横线或其他字符。';
+      message.hidden = false;
+      document.getElementById('alignment-result').hidden = true;
+      document.getElementById('alignment-matrix').replaceChildren();
+      return;
+    }
+    refInput.value = reference; queryInput.value = query;
+    message.hidden = true;
+    document.getElementById('alignment-result').hidden = false;
+    const n = reference.length, m = query.length;
+    const score = Array.from({length:n+1}, () => Array(m+1).fill(0));
+    const trace = Array.from({length:n+1}, () => Array(m+1).fill(0));
+    for (let i=1;i<=n;i++) {score[i][0]=-5*i; trace[i][0]=1;}
+    for (let j=1;j<=m;j++) {score[0][j]=-5*j; trace[0][j]=2;}
+    for (let i=1;i<=n;i++) for (let j=1;j<=m;j++) {
+      const a=reference[i-1], b=query[j-1];
+      const substitution=(a==='X'||b==='X') ? 0 : (a===b ? 3 : -1);
+      const options=[score[i-1][j-1]+substitution,score[i-1][j]-5,score[i][j-1]-5];
+      const best=Math.max(...options);
+      score[i][j]=best; trace[i][j]=options.indexOf(best);
+    }
+    let i=n,j=m; const top=[],bottom=[],path=new Set([`${i},${j}`]);
+    while (i||j) {
+      const direction=trace[i][j];
+      if (direction===0) {top.push(reference[i-1]);bottom.push(query[j-1]);i--;j--;}
+      else if (direction===1) {top.push(reference[i-1]);bottom.push('-');i--;}
+      else {top.push('-');bottom.push(query[j-1]);j--;}
+      path.add(`${i},${j}`);
+    }
+    const first=top.reverse().join(''), second=bottom.reverse().join('');
+    const markers=Array.from(first, (aa,k) => aa===second[k] && aa!=='-' && aa!=='X' ? '|' : ' ' ).join('');
+    document.getElementById('alignment-score').textContent=String(score[n][m]);
+    document.getElementById('alignment-text').textContent=`参考：${first}\n标记：${markers}\n输入：${second}`;
+    const table=document.createElement('table');table.className='alignment-grid';
+    const caption=document.createElement('caption');caption.textContent='普通全局比对评分矩阵：对角匹配／缺失／插入中选择最高分；同分时对角优先。';table.append(caption);
+    const head=document.createElement('thead'), header=document.createElement('tr');
+    for (const label of ['参考／输入','∅',...query]) {const cell=document.createElement('th');cell.textContent=label;cell.scope='col';header.append(cell);}
+    head.append(header);table.append(head);
+    const body=document.createElement('tbody');
+    for (let r=0;r<=n;r++) {
+      const row=document.createElement('tr'), label=document.createElement('th');label.scope='row';label.textContent=r ? reference[r-1] : '∅';row.append(label);
+      for (let c=0;c<=m;c++) {const cell=document.createElement('td');cell.textContent=String(score[r][c]);if(path.has(`${r},${c}`))cell.className='path';row.append(cell);}
+      body.append(row);
+    }
+    table.append(body);document.getElementById('alignment-matrix').replaceChildren(table);
+  }
+  form.addEventListener('submit', event => {event.preventDefault();runDemo();});
+  document.getElementById('unknown-example').addEventListener('click', () => {refInput.value='ACDEFG';queryInput.value='ACDXFG';runDemo();});
+  document.getElementById('reset-example').addEventListener('click', () => {refInput.value='ACDEFG';queryInput.value='ACDFG';runDemo();});
+  runDemo();
+})();
+
+(function(){const task=document.getElementById('task-design');document.querySelectorAll('a[href="#task-design"]').forEach(a=>a.addEventListener('click',()=>{task.open=true;}));})();</script></body></html>

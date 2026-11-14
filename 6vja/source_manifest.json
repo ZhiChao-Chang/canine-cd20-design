@@ -1,0 +1,181 @@
+{
+  "url": "https://files.rcsb.org/download/6VJA.cif",
+  "retrieved_at_utc": "2026-11-13T10:08:41.066779+00:00",
+  "bytes": 1010640,
+  "sha256": "3856afb5f77cfd54cf6adb67d5bd5bf2ce26373a812f8ea26efcd0c1d856d29b",
+  "pdb_id": "6VJA",
+  "structure": "Human CD20 dimer with two rituximab Fabs",
+  "experimental_method": "Electron microscopy",
+  "resolution_A": 3.3,
+  "atoms": 9342,
+  "modeled_protein_residues": 1204,
+  "assembly": "Biological assembly 1; identity operator; same coordinates as deposited asymmetric unit",
+  "chains": [
+    {
+      "auth_chain": "C",
+      "modeled_residues": 165,
+      "atoms": 1380
+    },
+    {
+      "auth_chain": "D",
+      "modeled_residues": 165,
+      "atoms": 1380
+    },
+    {
+      "auth_chain": "H",
+      "modeled_residues": 224,
+      "atoms": 1668
+    },
+    {
+      "auth_chain": "I",
+      "modeled_residues": 224,
+      "atoms": 1668
+    },
+    {
+      "auth_chain": "L",
+      "modeled_residues": 213,
+      "atoms": 1623
+    },
+    {
+      "auth_chain": "M",
+      "modeled_residues": 213,
+      "atoms": 1623
+    }
+  ],
+  "ligands": [
+    {
+      "chain": "C",
+      "residue": "1001",
+      "name": "Y01"
+    },
+    {
+      "chain": "C",
+      "residue": "1002",
+      "name": "Y01"
+    },
+    {
+      "chain": "C",
+      "residue": "1003",
+      "name": "Y01"
+    },
+    {
+      "chain": "D",
+      "residue": "401",
+      "name": "Y01"
+    },
+    {
+      "chain": "D",
+      "residue": "402",
+      "name": "Y01"
+    },
+    {
+      "chain": "D",
+      "residue": "403",
+      "name": "Y01"
+    }
+  ],
+  "pdb_serialization_max_coordinate_error_A": 0.0,
+  "cdr_auth_indices": {
+    "H": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      51,
+      52,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      100,
+      100,
+      100,
+      100,
+      101,
+      102
+    ],
+    "I": [
+      26,
+      27,
+      28,
+      29,
+      30,
+      31,
+      32,
+      33,
+      51,
+      52,
+      52,
+      53,
+      54,
+      55,
+      56,
+      57,
+      93,
+      94,
+      95,
+      96,
+      97,
+      98,
+      99,
+      100,
+      100,
+      100,
+      100,
+      100,
+      101,
+      102
+    ],
+    "L": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      50,
+      51,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ],
+    "M": [
+      28,
+      29,
+      30,
+      31,
+      32,
+      50,
+      51,
+      89,
+      90,
+      91,
+      92,
+      93,
+      94,
+      95,
+      96,
+      97
+    ]
+  },
+  "cdr_definition": "Own frozen IMGT mapping; optional visualization of positions27–38/56–65/105–117, not a measured paratope."
+}
