@@ -4,7 +4,7 @@
   "prepared_at_utc": "2026-11-14T03:05:16.179307+00:00",
   "report_app_id": "report:d57ba836-9ab2-467d-94a4-779d05e0c06e",
   "inference_evidence_cutoff": "2026-11-12",
-  "report_sha256": "c3d9f48f8890495889569f8e92e57971e5751b7a9ce83f5fd59d9290c5966c3f",
+  "report_sha256": "b03944ba02b72be23ae0dd49b21e5a95b2f34641c34cd8a8175edc6bb223224f",
   "publication_authorized_by_user": true,
   "model_weights_included": false,
   "raw_partner_fasta_included": false,
@@ -54,12 +54,12 @@
       "sha256": "1aa4b02846f91f4d8c9edfe17572df777ee75171bb14d8ad28e4c0b2864c2ccf"
     },
     "README.md": {
-      "bytes": 6041,
-      "sha256": "3354d69dec49eda713bbed31edc06f2de4d6eab610df8c732d0f4cf631c396f8"
+      "bytes": 6463,
+      "sha256": "0868bf8b272fd4624945117e2ff096420dcace070ba00e988cf5429393d6b053"
     },
     "index.html": {
-      "bytes": 41580308,
-      "sha256": "c3d9f48f8890495889569f8e92e57971e5751b7a9ce83f5fd59d9290c5966c3f"
+      "bytes": 43851689,
+      "sha256": "b03944ba02b72be23ae0dd49b21e5a95b2f34641c34cd8a8175edc6bb223224f"
     },
     "teaching.html": {
       "bytes": 52510,
@@ -67,8 +67,8 @@
     }
   },
   "reader_mode": true,
-  "updated_at_utc": "2026-11-15T17:49:43.075258+00:00",
+  "updated_at_utc": "2026-11-16T10:28:44.873664+00:00",
   "url": "https://zhichao-chang.github.io/canine-cd20-design/",
   "title": "Canine CD20 Design",
-  "snapshot_sha256": "4167e9a5c5cb7f40696e573fdc4e73697d8400948eada8d8b5e29264c5d80cd2"
+  "snapshot_sha256": "ab36620dc952641d610b498d94c940d6bf3cbad0374b847a6c801cdfc3ee96f5"
 }

@@ -72,6 +72,8 @@ flowchart TD
 | **Input/output flowchart** | Exactly what each generator receives, can change, and returns. |
 | **Model guide** | Two generators, the nested inverse-folding step, and three predictors. |
 | **Interactive structures** | Experimental complexes, canine CD20, parent controls, and selected designs. |
+| **Free candidate overlays** | Choose any combination of the 70 retained candidates across routes and references; align CD20 to inspect pose or align VH/VL frameworks to inspect CDR shape. Export PNG or a self-contained PyMOL script. |
+| **CDR sequence comparisons** | Frozen IMGT-aligned residues, mutations against each design's own parent, pairwise CDR identity, and CSV/FASTA downloads for all 140 generated pairs. |
 | **Explicit comparisons** | Both structures being compared, the alignment region, the measured atoms, and the meaning of each metric. |
 | **Structural diagnostics** | CD20 deformation, Fv/CDR shape, relative pose, contact footprints, and seed sensitivity. |
 | **Inspectable evidence** | Reviewed values, calculation definitions, source identities, and candidate FASTA downloads. |
@@ -90,7 +92,7 @@ cd canine-cd20-design
 python3 -m http.server 8000 --bind 127.0.0.1
 ```
 
-Open **http://127.0.0.1:8000/**. The main HTML is approximately 42 MB because it includes the reviewed data, molecular coordinates, and display code.
+Open **http://127.0.0.1:8000/**. The main HTML is approximately 44 MB because it includes the reviewed data, molecular coordinates, and display code.
 
 ## Repository contents
 
