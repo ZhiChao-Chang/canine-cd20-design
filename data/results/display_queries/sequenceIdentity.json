@@ -1,0 +1,30 @@
+[
+  {
+    "region": "full",
+    "label": "全长CD20",
+    "matched": 219,
+    "positions": 298,
+    "identity_percent": 73.48993288590604
+  },
+  {
+    "region": "core",
+    "label": "设计核心46—210",
+    "matched": 127,
+    "positions": 165,
+    "identity_percent": 76.96969696969697
+  },
+  {
+    "region": "ecd",
+    "label": "胞外区73—75、144—188",
+    "matched": 31,
+    "positions": 48,
+    "identity_percent": 64.58333333333333
+  },
+  {
+    "region": "tm",
+    "label": "四段跨膜区",
+    "matched": 67,
+    "positions": 84,
+    "identity_percent": 79.76190476190476
+  }
+]

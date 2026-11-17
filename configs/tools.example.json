@@ -1,0 +1,33 @@
+{
+  "rfd4": {
+    "python": "/path/to/rfd4-env/bin/python",
+    "entry": "/path/to/rfd4-env/bin/rfd4-generate",
+    "repository": "/path/to/rfd4",
+    "checkpoint": "/path/to/RFD4-Proteina-model-snapshot"
+  },
+  "boltzgen": {
+    "python": "/path/to/boltzgen-env/bin/python",
+    "entry": "/path/to/boltzgen-env/bin/boltzgen"
+  },
+  "alphafold3": {
+    "python": "/path/to/af3-env/bin/python",
+    "repository": "/path/to/alphafold3",
+    "model_dir": "/path/to/alphafold3-models",
+    "env": {
+      "XLA_FLAGS": "--xla_gpu_enable_triton_gemm=false"
+    }
+  },
+  "boltz2": {
+    "python": "/path/to/boltz2-env/bin/python",
+    "entry": "/path/to/boltz2-env/bin/boltz",
+    "cache": "/path/to/boltz2-cache"
+  },
+  "esmfold2": {
+    "python": "/path/to/esmfold2-env/bin/python",
+    "model_dir": "/path/to/ESMFold2-standard",
+    "env": {
+      "ESMCFOLD_CCD_PATH": "/path/to/ESMFold2-standard/ccd.pkl",
+      "LIBCIFPP_DATA_DIR": "/path/to/ccd"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+entities:
+- file:
+    path: starting_complex_v2.cif
+    include:
+    - chain:
+        id: A
+    - chain:
+        id: B
+    - chain:
+        id: H
+    - chain:
+        id: L
+    design:
+    - chain:
+        id: H
+        res_index: 25,26,27,28,29,30,31,32,50,51,52,53,54,55,56,57,96,97,98,99,100,101,102,103,104,105,106,107
+    - chain:
+        id: L
+        res_index: 27,28,29,30,31,32,33,34,35,36,37,55,56,94,95,96,97,98,99,100,101,102
+    binding_types:
+    - chain:
+        id: A
+        binding: 116,124,125,126,127,128,129,130,131,132,133
+    - chain:
+        id: B
+        binding: 113,114,115,116,117,126,128,129,132,133,134
+    structure_groups:
+    - group:
+        id: A
+        visibility: 1
+    - group:
+        id: B
+        visibility: 1
+    - group:
+        id: H
+        visibility: 2
+    - group:
+        id: L
+        visibility: 2
+    - group:
+        id: H
+        visibility: 0
+        res_index: 25,26,27,28,29,30,31,32,50,51,52,53,54,55,56,57,96,97,98,99,100,101,102,103,104,105,106,107
+    - group:
+        id: L
+        visibility: 0
+        res_index: 27,28,29,30,31,32,33,34,35,36,37,55,56,94,95,96,97,98,99,100,101,102

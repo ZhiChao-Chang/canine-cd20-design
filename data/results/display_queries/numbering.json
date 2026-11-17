@@ -1,0 +1,16 @@
+[
+  {
+    "effectiveRecords": 184,
+    "matchedGroups": 920,
+    "totalGroups": 920,
+    "systems": 5,
+    "numberedRecords": 181,
+    "unclassifiedRecords": 3,
+    "rawRecords": 215,
+    "skippedRecords": 31,
+    "publicSequences": 4,
+    "publicMatchedGroups": 20,
+    "publicTotalGroups": 20,
+    "equalFrequencyValues": 87930
+  }
+]

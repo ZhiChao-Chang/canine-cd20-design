@@ -1,0 +1,145 @@
+[
+  {
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "protein_residues": 1204,
+    "atom_count": 9342,
+    "target_chains": [
+      "C",
+      "D"
+    ],
+    "heavy_chains": [
+      "H",
+      "I"
+    ],
+    "light_chains": [
+      "L",
+      "M"
+    ],
+    "primary_heavy": "H",
+    "primary_light": "L",
+    "observed_core_ca": 330
+  },
+  {
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "protein_residues": 1218,
+    "atom_count": 9778,
+    "target_chains": [
+      "A",
+      "B"
+    ],
+    "heavy_chains": [
+      "C",
+      "H"
+    ],
+    "light_chains": [
+      "D",
+      "L"
+    ],
+    "primary_heavy": "H",
+    "primary_light": "L",
+    "observed_core_ca": 330
+  },
+  {
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "protein_residues": 1210,
+    "atom_count": 9497,
+    "target_chains": [
+      "A",
+      "B"
+    ],
+    "heavy_chains": [
+      "C",
+      "H"
+    ],
+    "light_chains": [
+      "D",
+      "L"
+    ],
+    "primary_heavy": "H",
+    "primary_light": "L",
+    "observed_core_ca": 330
+  },
+  {
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "protein_residues": 564,
+    "atom_count": 4366,
+    "target_chains": [
+      "A",
+      "B"
+    ],
+    "heavy_chains": [
+      "H"
+    ],
+    "light_chains": [
+      "L"
+    ],
+    "primary_heavy": "H",
+    "primary_light": "L",
+    "observed_core_ca": 330
+  },
+  {
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "protein_residues": 776,
+    "atom_count": 5948,
+    "target_chains": [
+      "A",
+      "B"
+    ],
+    "heavy_chains": [
+      "H"
+    ],
+    "light_chains": [
+      "L"
+    ],
+    "primary_heavy": "H",
+    "primary_light": "L",
+    "observed_core_ca": 330
+  },
+  {
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "protein_residues": 1204,
+    "atom_count": 9150,
+    "target_chains": [
+      "G",
+      "I"
+    ],
+    "heavy_chains": [
+      "A",
+      "H"
+    ],
+    "light_chains": [
+      "B",
+      "L"
+    ],
+    "primary_heavy": "A",
+    "primary_light": "B",
+    "observed_core_ca": 312
+  },
+  {
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "protein_residues": 1206,
+    "atom_count": 9148,
+    "target_chains": [
+      "G",
+      "I"
+    ],
+    "heavy_chains": [
+      "A",
+      "H"
+    ],
+    "light_chains": [
+      "B",
+      "L"
+    ],
+    "primary_heavy": "A",
+    "primary_light": "B",
+    "observed_core_ca": 312
+  }
+]

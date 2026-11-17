@@ -1,0 +1,1052 @@
+[
+  {
+    "reference_id": "6VJA",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.716619076358112,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.592055732451408,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.589927400249929,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.60449129736488,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.416423597861554,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.838635250069318,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "alphafold3",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 8.836882248652504,
+    "core_to_afdb_A": 8.257851306375773,
+    "full_to_afdb_A": 22.74695931885755,
+    "ecd_to_afdb_A": 9.7737463424315
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 8.182260772644701,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 7.9425095441241105,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 8.009772553219744,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 8.006034205538755,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 7.77494854193294,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 8.188992731231915,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "alphafold3",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 8.169810621633244,
+    "core_to_afdb_A": 7.89935700929292,
+    "full_to_afdb_A": 33.685463336115575,
+    "ecd_to_afdb_A": 9.907427364319451
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 8.014103893400863,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.824584693141449,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.89671663373654,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.914138679060447,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.706922160474969,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 8.059904309322455,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "alphafold3",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 8.050487357029747,
+    "core_to_afdb_A": 7.713350458844926,
+    "full_to_afdb_A": 26.917641157849992,
+    "ecd_to_afdb_A": 10.021980054506042
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.6249458263131675,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.315606277578389,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.466509541561314,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.4642753125671915,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.219105760912082,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.556513081982043,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "alphafold3",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 7.535858025344105,
+    "core_to_afdb_A": 7.349727519763937,
+    "full_to_afdb_A": 25.652218327988734,
+    "ecd_to_afdb_A": 9.10842802452464
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 8.084105504520112,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.926818711421837,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 8.055000791794189,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.980415749210914,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.810594917115258,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 8.125691594161312,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "alphafold3",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 8.119415715243631,
+    "core_to_afdb_A": 7.758213863025153,
+    "full_to_afdb_A": 27.463265827126456,
+    "ecd_to_afdb_A": 9.420599444811462
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.275761051898664,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.051302156481024,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.5270524716352805,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.119263358650612,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.060813026027475,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.098228300489173,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 7.108948494798496,
+    "core_to_afdb_A": 6.815346594097973,
+    "full_to_afdb_A": 25.954053322657384,
+    "ecd_to_afdb_A": 6.562506290226964
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.743423705580906,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.6561115311054815,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.890003018560485,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.749190081567273,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.620981891699587,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.725593010591705,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 6.716163295398013,
+    "core_to_afdb_A": 6.592595030443992,
+    "full_to_afdb_A": 28.805400701765596,
+    "ecd_to_afdb_A": 7.401338737726444
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.35148938157125,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.136473614301357,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.523848165944417,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.124384288396997,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.193785353118016,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.128014711800753,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 7.147184213575457,
+    "core_to_afdb_A": 6.8133831231114295,
+    "full_to_afdb_A": 26.675201088661886,
+    "ecd_to_afdb_A": 7.92924926651324
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 9.191596309829102,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 8.966222363756913,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 9.283734378849866,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 8.996998267076231,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 8.956802205968096,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 9.074635990176848,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 9.078028407506949,
+    "core_to_afdb_A": 8.82681463575545,
+    "full_to_afdb_A": 28.2451936496611,
+    "ecd_to_afdb_A": 10.94463062496602
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.668488560240539,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.443715710321673,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.852262888789331,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.464393700368833,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.514878926539892,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.469308194032273,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "boltz2",
+    "seed": 42,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 7.485139140826474,
+    "core_to_afdb_A": 7.205261451399167,
+    "full_to_afdb_A": 26.28365229525712,
+    "ecd_to_afdb_A": 7.720346853330368
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.52150352207915,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.314587276911618,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.6449038141281065,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.317368523496109,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.435316892079396,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.192545156428114,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "esmfold2",
+    "seed": 42,
+    "sample_index": 1,
+    "core_to_human_experiment_A": 4.231723437198248,
+    "core_to_afdb_A": 3.7795484403050303,
+    "full_to_afdb_A": 22.07870543338156,
+    "ecd_to_afdb_A": 4.68829588869509
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 4.2865496994316885,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 4.05577244160116,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 4.375203560978788,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 4.096928251174998,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 4.192023381067232,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 3.9439851758909183,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "esmfold2",
+    "seed": 43,
+    "sample_index": 2,
+    "core_to_human_experiment_A": 3.9824047795832747,
+    "core_to_afdb_A": 3.534696132631366,
+    "full_to_afdb_A": 27.270789539445346,
+    "ecd_to_afdb_A": 4.543524009355592
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.7254733902132022,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.259378136680508,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.589487829330297,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.3626647672996137,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.3587968649210618,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.166557564026114,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "esmfold2",
+    "seed": 44,
+    "sample_index": 3,
+    "core_to_human_experiment_A": 2.2172430645661936,
+    "core_to_afdb_A": 1.4002699385424515,
+    "full_to_afdb_A": 20.313270505669685,
+    "ecd_to_afdb_A": 2.0652260217858727
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.386144454882449,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.185438109013879,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.506877867610258,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.210256036010995,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.324422444626577,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.05381318189245,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "esmfold2",
+    "seed": 45,
+    "sample_index": 4,
+    "core_to_human_experiment_A": 4.097214237143602,
+    "core_to_afdb_A": 3.6615123574978594,
+    "full_to_afdb_A": 22.799805157948878,
+    "ecd_to_afdb_A": 4.615020209907266
+  },
+  {
+    "reference_id": "6VJA",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.891875549204196,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  },
+  {
+    "reference_id": "6Y90",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.490892140490166,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  },
+  {
+    "reference_id": "6Y92",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.8669804974185493,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  },
+  {
+    "reference_id": "6Y97",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.5568986719961315,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  },
+  {
+    "reference_id": "6Y9A",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.611666655521072,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  },
+  {
+    "reference_id": "8VGN",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.383326926636896,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  },
+  {
+    "reference_id": "8VGO",
+    "model": "esmfold2",
+    "seed": 46,
+    "sample_index": 5,
+    "core_to_human_experiment_A": 2.4200355641549813,
+    "core_to_afdb_A": 1.728873206753851,
+    "full_to_afdb_A": 26.38467728313573,
+    "ecd_to_afdb_A": 2.433505607568757
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "id": "6VJA",
+    "family": "Rituximab",
+    "title": "Structure of CD20 in complex with rituximab Fab",
+    "resolution_A": 3.3,
+    "heavy_length": 121,
+    "light_length": 106,
+    "designable_positions": 46,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "C",
+        "matched_ca": 165,
+        "rmsd_A": 2.2244088109191344
+      },
+      {
+        "role": "B",
+        "source_chain": "D",
+        "matched_ca": 165,
+        "rmsd_A": 2.211863247396287
+      }
+    ],
+    "hotspot_residues": 21,
+    "source_sha256": "3856afb5f77cfd54cf6adb67d5bd5bf2ce26373a812f8ea26efcd0c1d856d29b",
+    "construct_note": "Native reference-derived paired variable domains."
+  },
+  {
+    "id": "6Y90",
+    "family": "Rituximab",
+    "title": "Structure of full-length CD20 in complex with Rituximab Fab",
+    "resolution_A": 3.69,
+    "heavy_length": 121,
+    "light_length": 106,
+    "designable_positions": 46,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "A",
+        "matched_ca": 165,
+        "rmsd_A": 1.7614577537937983
+      },
+      {
+        "role": "B",
+        "source_chain": "B",
+        "matched_ca": 165,
+        "rmsd_A": 1.7490585484141115
+      }
+    ],
+    "hotspot_residues": 27,
+    "source_sha256": "2fa4a0d9d734b34f4fdd08a5f7a20ab3742e8af229619f1a1f09ea2597c94944",
+    "construct_note": "Native reference-derived paired variable domains."
+  },
+  {
+    "id": "6Y92",
+    "family": "Ofatumumab",
+    "title": "Structure of full-length CD20 in complex with Ofatumumab Fab",
+    "resolution_A": 4.73,
+    "heavy_length": 122,
+    "light_length": 107,
+    "designable_positions": 48,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "A",
+        "matched_ca": 165,
+        "rmsd_A": 2.088514989633218
+      },
+      {
+        "role": "B",
+        "source_chain": "B",
+        "matched_ca": 165,
+        "rmsd_A": 2.0959834701227837
+      }
+    ],
+    "hotspot_residues": 19,
+    "source_sha256": "b38fcacf98ebb7dfe65dcfbd255a544c7ca0343f5f6eb80a611998e1b85eeca2",
+    "construct_note": "Native reference-derived paired variable domains."
+  },
+  {
+    "id": "6Y97",
+    "family": "Obinutuzumab",
+    "title": "Structure of full-length CD20 in complex with Obinutuzumab Fab",
+    "resolution_A": 4.33,
+    "heavy_length": 116,
+    "light_length": 110,
+    "designable_positions": 50,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "A",
+        "matched_ca": 165,
+        "rmsd_A": 1.8720932267184942
+      },
+      {
+        "role": "B",
+        "source_chain": "B",
+        "matched_ca": 165,
+        "rmsd_A": 2.103718833012657
+      }
+    ],
+    "hotspot_residues": 26,
+    "source_sha256": "4bb3f0cd73230aeac7f83f66e873bec502731ac7761d9bb1570bc6f65447d2c2",
+    "construct_note": "Observed variable-domain coordinate coverage; 6Y97 has shorter terminal coverage than 6Y9A."
+  },
+  {
+    "id": "6Y9A",
+    "family": "Obinutuzumab",
+    "title": "Structure of full-length CD20 in complex with Obinutuzumab Fab",
+    "resolution_A": 4.2,
+    "heavy_length": 118,
+    "light_length": 112,
+    "designable_positions": 50,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "A",
+        "matched_ca": 165,
+        "rmsd_A": 1.860275634579933
+      },
+      {
+        "role": "B",
+        "source_chain": "B",
+        "matched_ca": 165,
+        "rmsd_A": 1.9494804540910933
+      }
+    ],
+    "hotspot_residues": 22,
+    "source_sha256": "6f2a41013330c99618be95189695796c689d68a02c5ad8173b16a40a73327770",
+    "construct_note": "Observed variable-domain coordinate coverage; 6Y97 has shorter terminal coverage than 6Y9A."
+  },
+  {
+    "id": "8VGN",
+    "family": "Rituximab",
+    "title": "CryoEM structure of CD20 in complex with wild type Rituximab Fab",
+    "resolution_A": 2.5,
+    "heavy_length": 121,
+    "light_length": 106,
+    "designable_positions": 46,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "G",
+        "matched_ca": 156,
+        "rmsd_A": 1.7463433338589494
+      },
+      {
+        "role": "B",
+        "source_chain": "I",
+        "matched_ca": 156,
+        "rmsd_A": 1.7460489493976756
+      }
+    ],
+    "hotspot_residues": 25,
+    "source_sha256": "71077c1b47ae42f526be6ed00e54a998ee516a74b81925b9c9b804fb6a31a659",
+    "construct_note": "Native reference-derived paired variable domains."
+  },
+  {
+    "id": "8VGO",
+    "family": "Rituximab.4DS",
+    "title": "CryoEM structure of CD20 in complex with engineered conformationally rigid Rituximab.4DS Fab",
+    "resolution_A": 2.6,
+    "heavy_length": 121,
+    "light_length": 106,
+    "designable_positions": 46,
+    "target_homology_fits": [
+      {
+        "role": "A",
+        "source_chain": "G",
+        "matched_ca": 156,
+        "rmsd_A": 1.7945603458214892
+      },
+      {
+        "role": "B",
+        "source_chain": "I",
+        "matched_ca": 156,
+        "rmsd_A": 1.7917728356862965
+      }
+    ],
+    "hotspot_residues": 25,
+    "source_sha256": "14865fb2541c0fa257e2d85505f1d0a2db1791a8182e265e01352ace1ff338cb",
+    "construct_note": "Engineered framework retained exactly."
+  }
+]

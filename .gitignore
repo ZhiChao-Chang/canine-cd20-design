@@ -1,5 +1,15 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+.venv*/
+*.egg-info/
+build/
+dist/
+node_modules/
+web/dist/
+work/
+models/
+private/
 .env
 .env.*
+configs/tools.local.json

@@ -1,0 +1,21 @@
+/* Authored chapter navigation, kept clear of report evidence and source panels. */
+.research-bubble-nav{position:fixed;right:18px;top:50%;transform:translateY(-50%);z-index:25;width:90px;color:var(--text);font-family:var(--font-sans)}
+.research-bubble-menu{display:flex;flex-direction:column;gap:5px;max-height:calc(100dvh - 72px);overflow-y:auto;padding:4px;scrollbar-width:thin;overscroll-behavior:contain}
+.research-bubble-caption{font-size:10px;line-height:1.5;text-align:center;font-weight:600;letter-spacing:.06em;margin-bottom:5px;color:var(--text)}
+.research-bubble-link{display:flex;align-items:center;justify-content:center;min-height:31px;flex:none;padding:6px 8px;border:1px solid var(--border-strong);border-radius:999px;background:color-mix(in srgb,var(--background) 94%,transparent);color:var(--text)!important;font-size:12px;line-height:1.45;font-weight:500;text-decoration:none;white-space:nowrap;box-shadow:0 2px 8px rgb(0 0 0 / 4%);backdrop-filter:blur(12px);transition:background-color 150ms ease,border-color 150ms ease,color 150ms ease}
+.research-bubble-link:hover{background:var(--muted);border-color:var(--accent)}
+.research-bubble-link[aria-current="location"]{background:var(--accent);border-color:var(--accent);color:var(--background)!important;font-weight:650}
+.research-bubble-link:focus-visible,.research-bubble-toggle:focus-visible{outline:3px solid var(--accent);outline-offset:3px}
+.research-bubble-toggle{display:none}
+/* Reserve a lane where the existing page would otherwise reach the rail. */
+@media (min-width:1100px) and (max-width:1600px){.apple-research-report{padding-right:112px}}
+@media(max-width:1099px){
+  .research-bubble-nav{top:auto;bottom:20px;right:16px;transform:none;width:auto;display:flex;flex-direction:column;align-items:flex-end;gap:10px}
+  .research-bubble-toggle{display:flex;align-items:center;gap:8px;padding:10px 15px;border:1px solid var(--border-strong);border-radius:999px;background:var(--background);color:var(--text);box-shadow:0 4px 20px rgb(0 0 0 / 12%);font:600 13px/1.5 var(--font-sans);cursor:pointer;order:2}
+  .research-bubble-toggle>span{font-size:16px;line-height:1}
+  .research-bubble-menu{display:none;width:124px;max-height:min(68dvh,620px);padding:12px;border:1px solid var(--border);border-radius:20px;background:var(--background);box-shadow:0 8px 32px rgb(0 0 0 / 12%);order:1}
+  .research-bubble-nav[data-open="true"] .research-bubble-menu{display:flex}
+  .research-bubble-link{min-height:34px;font-size:12px}
+}
+@media(prefers-reduced-motion:reduce){.research-bubble-link{transition:none}}
+@media print{.research-bubble-nav{display:none!important}.apple-research-report{padding-right:0}}

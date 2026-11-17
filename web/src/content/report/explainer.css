@@ -1,0 +1,90 @@
+.explain-chapter{min-width:0}
+.explain-prose .rich-narrative-content{font-size:17px;line-height:1.95;color:var(--text);max-width:1100px}
+.explain-prose .rich-narrative-content h3{font-size:24px;line-height:1.5;letter-spacing:-.025em;margin:32px 0 16px}
+.explain-source-columns{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px;margin-bottom:24px}
+.explain-model-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px;margin:16px 0 30px}
+.explain-model-card{border:1px solid var(--border);border-radius:22px;padding:28px;min-width:0;display:flex;flex-direction:column}
+.explain-stage-label{font-size:12px;font-weight:650;letter-spacing:.04em;color:var(--text)}
+.explain-model-card h3{font-size:27px;letter-spacing:-.035em;line-height:1.35;margin:12px 0 25px;color:var(--text)}
+.explain-model-card dl{display:grid;grid-template-columns:90px minmax(0,1fr);gap:17px 18px;margin:0;font-size:14px;line-height:1.85}
+.explain-model-card dt{font-weight:650;color:var(--text)}
+.explain-model-card dd{margin:0;min-width:0;color:var(--text)}
+.explain-model-footer{margin-top:auto;padding-top:25px;font-size:11px;line-height:1.8;display:flex;justify-content:space-between;gap:16px;align-items:flex-end;flex-wrap:wrap;color:var(--text)}
+.explain-model-footer a{font-size:13px;color:var(--accent);white-space:nowrap}
+.explain-model-footer .rich-narrative-content,.explain-model-footer .rich-narrative-content p{margin:0;font-size:13px;line-height:1.8}
+.explain-chart-block{min-width:0;margin:28px 0 35px}
+.explain-chart-block>.research-caption{margin-top:12px}
+.explain-topology{padding:15px 0 8px;overflow-x:auto;color:var(--text)}
+.explain-topology svg{display:block;width:100%;min-width:650px;height:auto;max-height:110px}
+.explain-topology svg g{cursor:crosshair}
+.explain-topology svg g:focus rect{stroke:var(--text);stroke-width:3}
+.explain-topology p{font-size:14px;line-height:1.8;margin:14px 0 0}
+.explain-topology-legend{display:flex;gap:24px;flex-wrap:wrap;align-items:center;margin-top:8px;font-size:13px;color:var(--text)}
+.explain-topology-legend span,.explain-molecule-legend span{display:inline-flex;gap:7px;align-items:center}
+.explain-topology-legend i,.explain-molecule-legend i{display:inline-block;width:10px;height:10px;border-radius:50%;flex:none}
+.explain-viewer{border:1px solid var(--border);border-radius:22px;overflow:hidden;background:var(--background);margin:15px 0;color:var(--text)}
+.explain-viewer-toolbar{padding:22px 24px 18px;display:flex;gap:22px;align-items:end;flex-wrap:wrap}
+.explain-viewer-toolbar label{display:flex;flex-direction:column;gap:8px;font-size:12px;font-weight:600;min-width:0;max-width:100%}
+.explain-viewer-toolbar select{font:400 14px/1.5 var(--font-sans);padding:9px 32px 9px 12px;border:1px solid var(--border-strong);border-radius:10px;background:var(--background);color:var(--text);max-width:100%}
+.explain-molecule-stage{height:570px;background:#fff;position:relative;min-width:0}
+.explain-molecule-canvas{position:absolute;inset:0;outline-offset:-4px}
+.explain-molecule-status{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;padding:30px;font-size:15px;color:#101010;background:rgba(255,255,255,.85);pointer-events:none}
+.explain-view-reset{position:absolute;right:22px;bottom:18px;width:40px;height:40px;border:1px solid #ccc;background:#fff;border-radius:50%;font-size:23px;color:#101010;cursor:pointer}
+.explain-model-buttons,.explain-pill-row{display:flex;gap:10px;flex-wrap:wrap;padding:18px 24px 5px}
+.explain-model-buttons button,.explain-pill-row button,.explain-pair-selector button{font:500 13px/1.5 var(--font-sans);border:1px solid var(--border-strong);background:var(--background);color:var(--text);border-radius:20px;padding:9px 17px;cursor:pointer}
+.explain-model-buttons button[aria-pressed=true],.explain-pill-row button[aria-pressed=true],.explain-pair-selector button[aria-pressed=true]{background:var(--text);color:var(--background);border-color:var(--text)}
+.explain-viewer-switches{display:flex;align-items:center;flex-wrap:wrap;gap:15px 25px;padding:20px 24px 18px;font-size:13px}
+.explain-viewer-switches label{display:flex;align-items:center;gap:7px;cursor:pointer}
+.explain-viewer-switches input{accent-color:#0071e3}
+.explain-viewer-switches button{font:500 13px/1.5 var(--font-sans);border:0;border-bottom:1px solid var(--border-strong);color:var(--text);background:none;cursor:pointer;padding:2px 0}
+.explain-molecule-legend{display:flex;align-items:center;gap:18px;flex-wrap:wrap;padding:0 24px 18px;font-size:12px;color:var(--text)}
+.explain-viewer-note{margin:0;padding:18px 24px;border-top:1px solid var(--border);font-size:13px;line-height:1.85;color:var(--text)}
+.explain-picked{padding:0 24px 20px;font-size:12px;line-height:1.85;min-height:35px;overflow-wrap:anywhere;color:var(--text)}
+.explain-sequence-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(46px,1fr));gap:7px;margin:22px 0}
+.explain-sequence-grid>div{display:flex;flex-direction:column;align-items:center;gap:4px;background:var(--muted);padding:8px 4px;border-radius:7px;border-bottom:3px solid transparent;color:var(--text)}
+.explain-sequence-grid>div.is-mismatch{background:#fff0dc;color:#101010}
+.explain-sequence-grid>div.is-reference-contact{border-bottom-color:#8759ba}
+.explain-sequence-grid span{font-size:11px;line-height:1.4}
+.explain-sequence-grid b{font-size:16px;line-height:1.3;font-family:var(--font-sans);font-weight:600}
+.explain-pairing{max-width:850px;margin:14px auto 24px}
+.explain-pairing .explain-pill-row{padding-left:0;padding-right:0;margin-bottom:24px}
+.explain-pairing-grid{display:grid;grid-template-columns:90px repeat(3,minmax(0,1fr));gap:10px;align-items:center;font-size:13px}
+.explain-pairing-grid>b{text-align:center;font-weight:600}
+.explain-pairing-grid>div{border:1px solid var(--border);border-radius:14px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;min-height:86px;padding:12px;color:var(--text)}
+.explain-pairing-grid>div.is-active{border:2px solid var(--accent);background:var(--muted)}
+.explain-pairing-grid small{font-size:11px;color:var(--text)}
+.explain-pair-selector{display:flex;gap:7px;flex-wrap:wrap;margin-top:25px}
+.explain-pair-selector button{padding:6px 12px;font-size:12px}
+.explain-pair-label{font-size:15px;font-weight:600;line-height:1.8;margin:20px 0 0;color:var(--text)}
+.explain-heatmap-scroll{overflow-x:auto;max-width:100%;margin:20px 0;overscroll-behavior-x:contain}
+.explain-heatmap-wide{min-width:1700px}
+.research-local-nav>div{flex-wrap:wrap}
+@media(max-width:1000px){.explain-model-grid{gap:16px}.explain-model-card{padding:23px}.explain-model-card dl{grid-template-columns:78px minmax(0,1fr);gap:14px 14px}.explain-model-card h3{font-size:24px}}
+@media(max-width:640px){
+  .explain-source-columns,.explain-model-grid{grid-template-columns:minmax(0,1fr);gap:22px}
+  .explain-prose .rich-narrative-content{font-size:15px;line-height:1.95}
+  .explain-prose .rich-narrative-content h3{font-size:22px}
+  .explain-model-card{padding:22px 19px;border-radius:18px}
+  .explain-model-card dl{grid-template-columns:76px minmax(0,1fr);gap:14px 13px;font-size:13px}
+  .explain-model-footer{padding-top:20px}
+  .explain-molecule-stage{height:410px}
+  .explain-viewer-toolbar{padding:18px 16px;gap:16px}
+  .explain-viewer-toolbar label{width:100%}
+  .explain-viewer-toolbar select{font-size:13px}
+  .explain-model-buttons{padding:16px 16px 0;gap:7px}
+  .explain-model-buttons button{padding:8px 11px;font-size:12px}
+  .explain-viewer-switches{padding:19px 16px;gap:14px 19px;font-size:12px}
+  .explain-molecule-legend{padding:0 16px 16px;gap:12px;font-size:11px}
+  .explain-viewer-note{padding:16px;font-size:12px}
+  .explain-picked{padding:0 16px 18px;font-size:11px}
+  .explain-pairing-grid{grid-template-columns:66px repeat(3,minmax(0,1fr));gap:6px;font-size:11px}
+  .explain-pairing-grid>div{min-height:72px;padding:8px 2px;gap:5px;border-radius:10px}
+  .explain-pairing-grid small{font-size:10px}
+  .explain-pill-row{padding:12px 0 0;gap:8px}
+  .explain-pill-row button{font-size:12px;padding:8px 12px}
+  .explain-pair-selector{gap:6px}.explain-pair-selector button{font-size:11px;padding:5px 9px}
+  .explain-pair-label{font-size:13px}
+}
+@media print{.explain-viewer-toolbar,.explain-viewer-switches,.explain-model-buttons,.explain-view-reset,.explain-pair-selector{display:none}.explain-molecule-stage{height:420px}.explain-model-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+
+.explain-chapter .research-caption .rich-narrative-content{color:var(--text)}

@@ -1,0 +1,2982 @@
+[
+  {
+    "alignment_column": 1,
+    "position": 1,
+    "human_position": 1,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 2,
+    "position": 2,
+    "human_position": 2,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 3,
+    "position": 3,
+    "human_position": 3,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 4,
+    "position": 4,
+    "human_position": 4,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 5,
+    "position": 5,
+    "human_position": 5,
+    "human": "R",
+    "dog": "R",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 6,
+    "position": 6,
+    "human_position": 6,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 7,
+    "position": 7,
+    "human_position": 7,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 8,
+    "position": 8,
+    "human_position": 8,
+    "human": "V",
+    "dog": "M",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 9,
+    "position": 9,
+    "human_position": 9,
+    "human": "N",
+    "dog": "S",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 10,
+    "position": 10,
+    "human_position": 10,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 11,
+    "position": 11,
+    "human_position": 11,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 12,
+    "position": 12,
+    "human_position": 12,
+    "human": "F",
+    "dog": "L",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 13,
+    "position": 13,
+    "human_position": 13,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 14,
+    "position": 14,
+    "human_position": 14,
+    "human": "A",
+    "dog": "V",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 15,
+    "position": 15,
+    "human_position": 15,
+    "human": "E",
+    "dog": "D",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 16,
+    "position": 16,
+    "human_position": 16,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 17,
+    "position": 17,
+    "human_position": 17,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 18,
+    "position": 18,
+    "human_position": 18,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 19,
+    "position": 19,
+    "human_position": 19,
+    "human": "G",
+    "dog": "S",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 20,
+    "position": 20,
+    "human_position": 20,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 21,
+    "position": 21,
+    "human_position": 21,
+    "human": "I",
+    "dog": "T",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 22,
+    "position": 22,
+    "human_position": 22,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 23,
+    "position": 23,
+    "human_position": 23,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 24,
+    "position": 24,
+    "human_position": 24,
+    "human": "Q",
+    "dog": "Y",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 25,
+    "position": 25,
+    "human_position": 25,
+    "human": "S",
+    "dog": "P",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 26,
+    "position": 26,
+    "human_position": 26,
+    "human": "G",
+    "dog": "V",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 27,
+    "position": 27,
+    "human_position": 27,
+    "human": "P",
+    "dog": "Q",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 28,
+    "position": 28,
+    "human_position": 28,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 29,
+    "position": 29,
+    "human_position": 29,
+    "human": "P",
+    "dog": "I",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 30,
+    "position": 30,
+    "human_position": 30,
+    "human": "L",
+    "dog": "I",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 31,
+    "position": 31,
+    "human_position": 31,
+    "human": "F",
+    "dog": "P",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 32,
+    "position": 32,
+    "human_position": 32,
+    "human": "R",
+    "dog": "K",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 33,
+    "position": 33,
+    "human_position": 33,
+    "human": "R",
+    "dog": "R",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 34,
+    "position": 34,
+    "human_position": 34,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 35,
+    "position": 35,
+    "human_position": 35,
+    "human": "S",
+    "dog": "P",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 36,
+    "position": 36,
+    "human_position": 36,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 37,
+    "position": 37,
+    "human_position": 37,
+    "human": "L",
+    "dog": "V",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 38,
+    "position": 38,
+    "human_position": 38,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 39,
+    "position": 39,
+    "human_position": 39,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 40,
+    "position": 40,
+    "human_position": 40,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 41,
+    "position": 41,
+    "human_position": 41,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 42,
+    "position": 42,
+    "human_position": 42,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 43,
+    "position": 43,
+    "human_position": 43,
+    "human": "S",
+    "dog": "N",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 44,
+    "position": 44,
+    "human_position": 44,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 45,
+    "position": 45,
+    "human_position": 45,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 46,
+    "position": 46,
+    "human_position": 46,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 47,
+    "position": 47,
+    "human_position": 47,
+    "human": "R",
+    "dog": "R",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 48,
+    "position": 48,
+    "human_position": 48,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 49,
+    "position": 49,
+    "human_position": 49,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 50,
+    "position": 50,
+    "human_position": 50,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 51,
+    "position": 51,
+    "human_position": 51,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 52,
+    "position": 52,
+    "human_position": 52,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 53,
+    "position": 53,
+    "human_position": 53,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 54,
+    "position": 54,
+    "human_position": 54,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 55,
+    "position": 55,
+    "human_position": 55,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 56,
+    "position": 56,
+    "human_position": 56,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 57,
+    "position": 57,
+    "human_position": 57,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 58,
+    "position": 58,
+    "human_position": 58,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 59,
+    "position": 59,
+    "human_position": 59,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 60,
+    "position": 60,
+    "human_position": 60,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 61,
+    "position": 61,
+    "human_position": 61,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 62,
+    "position": 62,
+    "human_position": 62,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 63,
+    "position": 63,
+    "human_position": 63,
+    "human": "H",
+    "dog": "H",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 64,
+    "position": 64,
+    "human_position": 64,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 65,
+    "position": 65,
+    "human_position": 65,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 66,
+    "position": 66,
+    "human_position": 66,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 67,
+    "position": 67,
+    "human_position": 67,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 68,
+    "position": 68,
+    "human_position": 68,
+    "human": "G",
+    "dog": "S",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 69,
+    "position": 69,
+    "human_position": 69,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 70,
+    "position": 70,
+    "human_position": 70,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 71,
+    "position": 71,
+    "human_position": 71,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 72,
+    "position": 72,
+    "human_position": 72,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 73,
+    "position": 73,
+    "human_position": 73,
+    "human": "P",
+    "dog": "H",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 74,
+    "position": 74,
+    "human_position": 74,
+    "human": "A",
+    "dog": "T",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 75,
+    "position": 75,
+    "human_position": 75,
+    "human": "G",
+    "dog": "D",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 76,
+    "position": 76,
+    "human_position": 76,
+    "human": "I",
+    "dog": "V",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 77,
+    "position": 77,
+    "human_position": 77,
+    "human": "Y",
+    "dog": "C",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 78,
+    "position": 78,
+    "human_position": 78,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 79,
+    "position": 79,
+    "human_position": 79,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 80,
+    "position": 80,
+    "human_position": 80,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 81,
+    "position": 81,
+    "human_position": 81,
+    "human": "C",
+    "dog": "C",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 82,
+    "position": 82,
+    "human_position": 82,
+    "human": "V",
+    "dog": "I",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 83,
+    "position": 83,
+    "human_position": 83,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 84,
+    "position": 84,
+    "human_position": 84,
+    "human": "V",
+    "dog": "M",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 85,
+    "position": 85,
+    "human_position": 85,
+    "human": "W",
+    "dog": "W",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 86,
+    "position": 86,
+    "human_position": 86,
+    "human": "Y",
+    "dog": "Y",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 87,
+    "position": 87,
+    "human_position": 87,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 88,
+    "position": 88,
+    "human_position": 88,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 89,
+    "position": 89,
+    "human_position": 89,
+    "human": "W",
+    "dog": "W",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 90,
+    "position": 90,
+    "human_position": 90,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 91,
+    "position": 91,
+    "human_position": 91,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 92,
+    "position": 92,
+    "human_position": 92,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 93,
+    "position": 93,
+    "human_position": 93,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 94,
+    "position": 94,
+    "human_position": 94,
+    "human": "Y",
+    "dog": "F",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 95,
+    "position": 95,
+    "human_position": 95,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 96,
+    "position": 96,
+    "human_position": 96,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 97,
+    "position": 97,
+    "human_position": 97,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 98,
+    "position": 98,
+    "human_position": 98,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 99,
+    "position": 99,
+    "human_position": 99,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 100,
+    "position": 100,
+    "human_position": 100,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 101,
+    "position": 101,
+    "human_position": 101,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 102,
+    "position": 102,
+    "human_position": 102,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 103,
+    "position": 103,
+    "human_position": 103,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 104,
+    "position": 104,
+    "human_position": 104,
+    "human": "T",
+    "dog": "A",
+    "match": false,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 105,
+    "position": 105,
+    "human_position": 105,
+    "human": "E",
+    "dog": "D",
+    "match": false,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 106,
+    "position": 106,
+    "human_position": 106,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 107,
+    "position": 107,
+    "human_position": 107,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 108,
+    "position": 108,
+    "human_position": 108,
+    "human": "S",
+    "dog": "P",
+    "match": false,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 109,
+    "position": 109,
+    "human_position": 109,
+    "human": "R",
+    "dog": "R",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 110,
+    "position": 110,
+    "human_position": 110,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 111,
+    "position": 111,
+    "human_position": 111,
+    "human": "C",
+    "dog": "S",
+    "match": false,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 112,
+    "position": 112,
+    "human_position": 112,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 113,
+    "position": 113,
+    "human_position": 113,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 114,
+    "position": 114,
+    "human_position": 114,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 115,
+    "position": 115,
+    "human_position": 115,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 116,
+    "position": 116,
+    "human_position": 116,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 117,
+    "position": 117,
+    "human_position": 117,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 118,
+    "position": 118,
+    "human_position": 118,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 119,
+    "position": 119,
+    "human_position": 119,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 120,
+    "position": 120,
+    "human_position": 120,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 121,
+    "position": 121,
+    "human_position": 121,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 122,
+    "position": 122,
+    "human_position": 122,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 123,
+    "position": 123,
+    "human_position": 123,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 124,
+    "position": 124,
+    "human_position": 124,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 125,
+    "position": 125,
+    "human_position": 125,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 126,
+    "position": 126,
+    "human_position": 126,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 127,
+    "position": 127,
+    "human_position": 127,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 128,
+    "position": 128,
+    "human_position": 128,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 129,
+    "position": 129,
+    "human_position": 129,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 130,
+    "position": 130,
+    "human_position": 130,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 131,
+    "position": 131,
+    "human_position": 131,
+    "human": "M",
+    "dog": "I",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 132,
+    "position": 132,
+    "human_position": 132,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 133,
+    "position": 133,
+    "human_position": 133,
+    "human": "L",
+    "dog": "F",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 134,
+    "position": 134,
+    "human_position": 134,
+    "human": "S",
+    "dog": "L",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 135,
+    "position": 135,
+    "human_position": 135,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 136,
+    "position": 136,
+    "human_position": 136,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 137,
+    "position": 137,
+    "human_position": 137,
+    "human": "D",
+    "dog": "D",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 138,
+    "position": 138,
+    "human_position": 138,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 139,
+    "position": 139,
+    "human_position": 139,
+    "human": "L",
+    "dog": "F",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 140,
+    "position": 140,
+    "human_position": 140,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 141,
+    "position": 141,
+    "human_position": 141,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 142,
+    "position": 142,
+    "human_position": 142,
+    "human": "K",
+    "dog": "T",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 143,
+    "position": 143,
+    "human_position": 143,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 144,
+    "position": 144,
+    "human_position": 144,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 145,
+    "position": 145,
+    "human_position": 145,
+    "human": "H",
+    "dog": "H",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 146,
+    "position": 146,
+    "human_position": 146,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 147,
+    "position": 147,
+    "human_position": 147,
+    "human": "L",
+    "dog": "F",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 148,
+    "position": 148,
+    "human_position": 148,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 149,
+    "position": 149,
+    "human_position": 149,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 150,
+    "position": 150,
+    "human_position": 150,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 151,
+    "position": 151,
+    "human_position": 151,
+    "human": "S",
+    "dog": "N",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 152,
+    "position": 152,
+    "human_position": 152,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 153,
+    "position": 153,
+    "human_position": 153,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 154,
+    "position": 154,
+    "human_position": 154,
+    "human": "F",
+    "dog": "L",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 155,
+    "position": 155,
+    "human_position": 155,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 156,
+    "position": 156,
+    "human_position": 156,
+    "human": "R",
+    "dog": "K",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 157,
+    "position": 157,
+    "human_position": 157,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 158,
+    "position": 158,
+    "human_position": 158,
+    "human": "H",
+    "dog": "P",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 159,
+    "position": 159,
+    "human_position": 159,
+    "human": "T",
+    "dog": "M",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 160,
+    "position": 160,
+    "human_position": 160,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 161,
+    "position": 161,
+    "human_position": 161,
+    "human": "Y",
+    "dog": "Y",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 162,
+    "position": 162,
+    "human_position": 162,
+    "human": "I",
+    "dog": "V",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 163,
+    "position": 163,
+    "human_position": 163,
+    "human": "N",
+    "dog": "D",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 164,
+    "position": 164,
+    "human_position": 164,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 165,
+    "position": 165,
+    "human_position": 165,
+    "human": "Y",
+    "dog": "H",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 166,
+    "position": 166,
+    "human_position": 166,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 167,
+    "position": 167,
+    "human_position": 167,
+    "human": "C",
+    "dog": "C",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 168,
+    "position": 168,
+    "human_position": 168,
+    "human": "E",
+    "dog": "D",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 169,
+    "position": 169,
+    "human_position": 169,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 170,
+    "position": 170,
+    "human_position": 170,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 171,
+    "position": 171,
+    "human_position": 171,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 172,
+    "position": 172,
+    "human_position": 172,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 173,
+    "position": 173,
+    "human_position": 173,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 174,
+    "position": 174,
+    "human_position": 174,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 175,
+    "position": 175,
+    "human_position": 175,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 176,
+    "position": 176,
+    "human_position": 176,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 177,
+    "position": 177,
+    "human_position": 177,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 178,
+    "position": 178,
+    "human_position": 178,
+    "human": "P",
+    "dog": "L",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 179,
+    "position": 179,
+    "human_position": 179,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 180,
+    "position": 180,
+    "human_position": 180,
+    "human": "T",
+    "dog": "I",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 181,
+    "position": 181,
+    "human_position": 181,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 182,
+    "position": 182,
+    "human_position": 182,
+    "human": "Y",
+    "dog": "Y",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 183,
+    "position": 183,
+    "human_position": 183,
+    "human": "C",
+    "dog": "C",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 184,
+    "position": 184,
+    "human_position": 184,
+    "human": "Y",
+    "dog": "G",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 185,
+    "position": 185,
+    "human_position": 185,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 186,
+    "position": 186,
+    "human_position": 186,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 187,
+    "position": 187,
+    "human_position": 187,
+    "human": "Q",
+    "dog": "R",
+    "match": false,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 188,
+    "position": 188,
+    "human_position": 188,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "ecd",
+    "in_core": true
+  },
+  {
+    "alignment_column": 189,
+    "position": 189,
+    "human_position": 189,
+    "human": "L",
+    "dog": "V",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 190,
+    "position": 190,
+    "human_position": 190,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 191,
+    "position": 191,
+    "human_position": 191,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 192,
+    "position": 192,
+    "human_position": 192,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 193,
+    "position": 193,
+    "human_position": 193,
+    "human": "I",
+    "dog": "V",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 194,
+    "position": 194,
+    "human_position": 194,
+    "human": "L",
+    "dog": "F",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 195,
+    "position": 195,
+    "human_position": 195,
+    "human": "S",
+    "dog": "A",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 196,
+    "position": 196,
+    "human_position": 196,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 197,
+    "position": 197,
+    "human_position": 197,
+    "human": "M",
+    "dog": "M",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 198,
+    "position": 198,
+    "human_position": 198,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 199,
+    "position": 199,
+    "human_position": 199,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 200,
+    "position": 200,
+    "human_position": 200,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 201,
+    "position": 201,
+    "human_position": 201,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 202,
+    "position": 202,
+    "human_position": 202,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 203,
+    "position": 203,
+    "human_position": 203,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 204,
+    "position": 204,
+    "human_position": 204,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 205,
+    "position": 205,
+    "human_position": 205,
+    "human": "E",
+    "dog": "K",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 206,
+    "position": 206,
+    "human_position": 206,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 207,
+    "position": 207,
+    "human_position": 207,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 208,
+    "position": 208,
+    "human_position": 208,
+    "human": "I",
+    "dog": "T",
+    "match": false,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 209,
+    "position": 209,
+    "human_position": 209,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "tm",
+    "in_core": true
+  },
+  {
+    "alignment_column": 210,
+    "position": 210,
+    "human_position": 210,
+    "human": "G",
+    "dog": "G",
+    "match": true,
+    "region": "cyto",
+    "in_core": true
+  },
+  {
+    "alignment_column": 211,
+    "position": 211,
+    "human_position": 211,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 212,
+    "position": 212,
+    "human_position": 212,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 213,
+    "position": 213,
+    "human_position": 213,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 214,
+    "position": 214,
+    "human_position": 214,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 215,
+    "position": 215,
+    "human_position": 215,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 216,
+    "position": 216,
+    "human_position": 216,
+    "human": "W",
+    "dog": "W",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 217,
+    "position": 217,
+    "human_position": 217,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 218,
+    "position": 218,
+    "human_position": 218,
+    "human": "R",
+    "dog": "K",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 219,
+    "position": 219,
+    "human_position": 219,
+    "human": "T",
+    "dog": "L",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 220,
+    "position": 220,
+    "human_position": 220,
+    "human": "C",
+    "dog": "C",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 221,
+    "position": 221,
+    "human_position": 221,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 222,
+    "position": 222,
+    "human_position": 222,
+    "human": "R",
+    "dog": "K",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 223,
+    "position": 223,
+    "human_position": 223,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 224,
+    "position": 224,
+    "human_position": 224,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 225,
+    "position": 225,
+    "human_position": 225,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 226,
+    "position": 226,
+    "human_position": null,
+    "human": "-",
+    "dog": "D",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 227,
+    "position": 227,
+    "human_position": 226,
+    "human": "N",
+    "dog": "V",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 228,
+    "position": 228,
+    "human_position": 227,
+    "human": "I",
+    "dog": "V",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 229,
+    "position": 229,
+    "human_position": 228,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 230,
+    "position": 230,
+    "human_position": 229,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 231,
+    "position": 231,
+    "human_position": 230,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 232,
+    "position": 232,
+    "human_position": 231,
+    "human": "S",
+    "dog": "A",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 233,
+    "position": 233,
+    "human_position": 232,
+    "human": "A",
+    "dog": "A",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 234,
+    "position": 234,
+    "human_position": 233,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 235,
+    "position": 235,
+    "human_position": 234,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 236,
+    "position": 236,
+    "human_position": 235,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 237,
+    "position": 237,
+    "human_position": 236,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 238,
+    "position": 238,
+    "human_position": 237,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 239,
+    "position": 239,
+    "human_position": 238,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 240,
+    "position": 240,
+    "human_position": 239,
+    "human": "T",
+    "dog": "P",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 241,
+    "position": 241,
+    "human_position": 240,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 242,
+    "position": 242,
+    "human_position": 241,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 243,
+    "position": 243,
+    "human_position": 242,
+    "human": "I",
+    "dog": "T",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 244,
+    "position": 244,
+    "human_position": 243,
+    "human": "K",
+    "dog": "T",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 245,
+    "position": 245,
+    "human_position": 244,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 246,
+    "position": 246,
+    "human_position": 245,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 247,
+    "position": 247,
+    "human_position": 246,
+    "human": "V",
+    "dog": "M",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 248,
+    "position": 248,
+    "human_position": 247,
+    "human": "V",
+    "dog": "V",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 249,
+    "position": 249,
+    "human_position": 248,
+    "human": "G",
+    "dog": "E",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 250,
+    "position": 250,
+    "human_position": 249,
+    "human": "L",
+    "dog": "L",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 251,
+    "position": 251,
+    "human_position": 250,
+    "human": "T",
+    "dog": "T",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 252,
+    "position": 252,
+    "human_position": 251,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 253,
+    "position": 253,
+    "human_position": 252,
+    "human": "T",
+    "dog": "I",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 254,
+    "position": 254,
+    "human_position": 253,
+    "human": "S",
+    "dog": "A",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 255,
+    "position": 255,
+    "human_position": 254,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 256,
+    "position": 256,
+    "human_position": 255,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 257,
+    "position": 257,
+    "human_position": 256,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 258,
+    "position": 258,
+    "human_position": 257,
+    "human": "K",
+    "dog": "K",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 259,
+    "position": 259,
+    "human_position": 258,
+    "human": "N",
+    "dog": "K",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 260,
+    "position": 260,
+    "human_position": 259,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 261,
+    "position": 261,
+    "human_position": 260,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 262,
+    "position": 262,
+    "human_position": 261,
+    "human": "D",
+    "dog": "D",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 263,
+    "position": 263,
+    "human_position": 262,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 264,
+    "position": 264,
+    "human_position": 263,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 265,
+    "position": 265,
+    "human_position": 264,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 266,
+    "position": 266,
+    "human_position": 265,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 267,
+    "position": 267,
+    "human_position": 266,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 268,
+    "position": 268,
+    "human_position": 267,
+    "human": "I",
+    "dog": "V",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 269,
+    "position": 269,
+    "human_position": 268,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 270,
+    "position": null,
+    "human_position": 269,
+    "human": "E",
+    "dog": "-",
+    "match": false,
+    "region": "gap",
+    "in_core": false
+  },
+  {
+    "alignment_column": 271,
+    "position": 270,
+    "human_position": 270,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 272,
+    "position": 271,
+    "human_position": 271,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 273,
+    "position": 272,
+    "human_position": 272,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 274,
+    "position": 273,
+    "human_position": 273,
+    "human": "E",
+    "dog": "G",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 275,
+    "position": 274,
+    "human_position": 274,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 276,
+    "position": 275,
+    "human_position": 275,
+    "human": "T",
+    "dog": "L",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 277,
+    "position": 276,
+    "human_position": 276,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 278,
+    "position": 277,
+    "human_position": 277,
+    "human": "T",
+    "dog": "I",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 279,
+    "position": 278,
+    "human_position": 278,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 280,
+    "position": 279,
+    "human_position": 279,
+    "human": "F",
+    "dog": "F",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 281,
+    "position": 280,
+    "human_position": 280,
+    "human": "P",
+    "dog": "A",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 282,
+    "position": 281,
+    "human_position": 281,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 283,
+    "position": 282,
+    "human_position": 282,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 284,
+    "position": 283,
+    "human_position": 283,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 285,
+    "position": 284,
+    "human_position": 284,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 286,
+    "position": 285,
+    "human_position": 285,
+    "human": "D",
+    "dog": "E",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 287,
+    "position": 286,
+    "human_position": 286,
+    "human": "Q",
+    "dog": "Q",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 288,
+    "position": 287,
+    "human_position": 287,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 289,
+    "position": 288,
+    "human_position": 288,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 290,
+    "position": 289,
+    "human_position": 289,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 291,
+    "position": 290,
+    "human_position": 290,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 292,
+    "position": 291,
+    "human_position": 291,
+    "human": "I",
+    "dog": "I",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 293,
+    "position": 292,
+    "human_position": 292,
+    "human": "E",
+    "dog": "E",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 294,
+    "position": 293,
+    "human_position": 293,
+    "human": "N",
+    "dog": "N",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 295,
+    "position": 294,
+    "human_position": 294,
+    "human": "D",
+    "dog": "D",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 296,
+    "position": 295,
+    "human_position": 295,
+    "human": "S",
+    "dog": "S",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 297,
+    "position": 296,
+    "human_position": 296,
+    "human": "S",
+    "dog": "I",
+    "match": false,
+    "region": "cyto",
+    "in_core": false
+  },
+  {
+    "alignment_column": 298,
+    "position": 297,
+    "human_position": 297,
+    "human": "P",
+    "dog": "P",
+    "match": true,
+    "region": "cyto",
+    "in_core": false
+  }
+]

@@ -1,0 +1,1262 @@
+[
+  {
+    "case_id": "ref6vja_rfd4_5b6c48a0ab05db2c",
+    "candidate_id": "rfd4_5b6c48a0ab05db2c",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_5b6c48a0ab05db2c.cif.gz",
+    "structure_sha256": "649c0714bb83799e3dfa797f9d149303097ce05dcbf9a269d03a894016e41a9e",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_5b6c48a0ab05db2c.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_5ef06e0066bc5d9d",
+    "candidate_id": "boltzgen_5ef06e0066bc5d9d",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_5ef06e0066bc5d9d.cif.gz",
+    "structure_sha256": "ff9253e48a3612a4f988fff10b841c384c1daac15e5cd4d9cdf344baa661815a",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_5ef06e0066bc5d9d.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_95af5d77e21d3b17",
+    "candidate_id": "rfd4_95af5d77e21d3b17",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_95af5d77e21d3b17.cif.gz",
+    "structure_sha256": "0fa094133d0026fa8d6d483e19946d3ab76e6c1e8f8b2b61d219643914e2f3fd",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_95af5d77e21d3b17.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_7e5e56ed72a68913",
+    "candidate_id": "rfd4_7e5e56ed72a68913",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_7e5e56ed72a68913.cif.gz",
+    "structure_sha256": "11ffe8c949f5694971da9c919a97ac03d6fee601f742cdf7e9ec646362a1653c",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_7e5e56ed72a68913.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_0cb979b23fd0bc57",
+    "candidate_id": "rfd4_0cb979b23fd0bc57",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_0cb979b23fd0bc57.cif.gz",
+    "structure_sha256": "42016e7ea236e9217efa4fca200a17787b681b38f949f742c6d9ca1b7f28485a",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_0cb979b23fd0bc57.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_d2ce6d337158ecbb",
+    "candidate_id": "rfd4_d2ce6d337158ecbb",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_d2ce6d337158ecbb.cif.gz",
+    "structure_sha256": "3885e52e7d957cf950e3eb3d333deb9578e0b32decfe3e864f18ee17f084143c",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_d2ce6d337158ecbb.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_8e05bbfd0da2e0e4",
+    "candidate_id": "rfd4_8e05bbfd0da2e0e4",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_8e05bbfd0da2e0e4.cif.gz",
+    "structure_sha256": "a16fd36f2f4671134f5002939243205b39d1608b5d637be2c081085ae6521659",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_8e05bbfd0da2e0e4.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_71e114dda27da1f4",
+    "candidate_id": "rfd4_71e114dda27da1f4",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_71e114dda27da1f4.cif.gz",
+    "structure_sha256": "3c47fe1f8bb7adb8b3b1343cf0518537e744b472220114dd14366e04c2b944bc",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_71e114dda27da1f4.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_f4fedc143e58ba06",
+    "candidate_id": "rfd4_f4fedc143e58ba06",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_f4fedc143e58ba06.cif.gz",
+    "structure_sha256": "713c48e2279f974476dd8cb03cde3178be858fc3f97fc6fdaee7dd86c2edc656",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_f4fedc143e58ba06.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_10e1217064ab3999",
+    "candidate_id": "rfd4_10e1217064ab3999",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_10e1217064ab3999.cif.gz",
+    "structure_sha256": "cd47af61ef11ca9bf698c14b848890c08124e8755f0c31acdc1683496c0ae80d",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_10e1217064ab3999.cif"
+  },
+  {
+    "case_id": "ref6vja_rfd4_fa79f70c4737eb47",
+    "candidate_id": "rfd4_fa79f70c4737eb47",
+    "reference_id": "6VJA",
+    "route": "rfd4",
+    "file": "data/designs/6VJA/rfd4_fa79f70c4737eb47.cif.gz",
+    "structure_sha256": "2cc6cd7c435bc7ed0c9d60bdeba34a47671cc6e1956c2528600e9bf4da14d9e0",
+    "workspace_structure": "refs/6VJA/results/candidates/rfd4_fa79f70c4737eb47.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_10e7df572f8c0d10",
+    "candidate_id": "boltzgen_10e7df572f8c0d10",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_10e7df572f8c0d10.cif.gz",
+    "structure_sha256": "ce7e10000462446281c84800369f20604d5dc8af3f2f9ba6224ee08d75ca8d9a",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_10e7df572f8c0d10.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_4cc3b45006b2854c",
+    "candidate_id": "boltzgen_4cc3b45006b2854c",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_4cc3b45006b2854c.cif.gz",
+    "structure_sha256": "50b867bd8c6c6e5a6fa767fa5c71290cf3bc2f2cbe0f7a6a3f58d0e3f0e6a870",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_4cc3b45006b2854c.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_d3feecaf1b92cb59",
+    "candidate_id": "boltzgen_d3feecaf1b92cb59",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_d3feecaf1b92cb59.cif.gz",
+    "structure_sha256": "778872d931b7a189546208aae826f9b07f939c0078842b6cc971566450cfcce9",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_d3feecaf1b92cb59.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_c5166768969d7d3c",
+    "candidate_id": "boltzgen_c5166768969d7d3c",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_c5166768969d7d3c.cif.gz",
+    "structure_sha256": "6f13bd662ca4c768d3ee3d5d0d75664917032a907fed6aa549b8e3d6e40e2516",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_c5166768969d7d3c.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_fbee29596ad3ce42",
+    "candidate_id": "boltzgen_fbee29596ad3ce42",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_fbee29596ad3ce42.cif.gz",
+    "structure_sha256": "e6a84fe2cacfd70c8688d148fc78d75f15bc03941407d7dbc869219464d98012",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_fbee29596ad3ce42.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_46b3218d05052ca4",
+    "candidate_id": "boltzgen_46b3218d05052ca4",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_46b3218d05052ca4.cif.gz",
+    "structure_sha256": "154beee17b59186551e8d65716491f4fb62dff4d0607b85ba8ad765ff3d3a8bd",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_46b3218d05052ca4.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_954c18d3f61316cc",
+    "candidate_id": "boltzgen_954c18d3f61316cc",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_954c18d3f61316cc.cif.gz",
+    "structure_sha256": "2763c3b9e9aa1bdd9db90138415255836ec41c561d8a69b123067832e2096e54",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_954c18d3f61316cc.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_2df73dfc5ac51e6c",
+    "candidate_id": "boltzgen_2df73dfc5ac51e6c",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_2df73dfc5ac51e6c.cif.gz",
+    "structure_sha256": "63143014a26019543a1a76e89eba00974f6686c062e8c24bb79f8a2fec25db14",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_2df73dfc5ac51e6c.cif"
+  },
+  {
+    "case_id": "ref6vja_boltzgen_0c9cd430ddad5630",
+    "candidate_id": "boltzgen_0c9cd430ddad5630",
+    "reference_id": "6VJA",
+    "route": "boltzgen",
+    "file": "data/designs/6VJA/boltzgen_0c9cd430ddad5630.cif.gz",
+    "structure_sha256": "d32f448356c312b632806027e8476df9e82bb2f365ec83d796967b7159985d01",
+    "workspace_structure": "refs/6VJA/results/candidates/boltzgen_0c9cd430ddad5630.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_ae6cb0d2a3e7bae2",
+    "candidate_id": "rfd4_ae6cb0d2a3e7bae2",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_ae6cb0d2a3e7bae2.cif.gz",
+    "structure_sha256": "29e4c4ff536ba732260d1a9a5c24437aa125f1b4cd2950c307b5a8f23ae1d4dc",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_ae6cb0d2a3e7bae2.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_67401c6a16b2f8b2",
+    "candidate_id": "boltzgen_67401c6a16b2f8b2",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_67401c6a16b2f8b2.cif.gz",
+    "structure_sha256": "03e1a4a88e8bc418eedbc71693ca272b6781a23d932ec8e2bcfd364ce968e2e1",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_67401c6a16b2f8b2.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_59606489f81f8292",
+    "candidate_id": "rfd4_59606489f81f8292",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_59606489f81f8292.cif.gz",
+    "structure_sha256": "bba67f9199be605e453d47a235a7581d8b04b42ff8d5a904da19ddd85e757fa8",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_59606489f81f8292.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_634e414726f9597f",
+    "candidate_id": "rfd4_634e414726f9597f",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_634e414726f9597f.cif.gz",
+    "structure_sha256": "6de5b8b5861358079a38e8d80f06831da848c855e416090f33777126f7b2a781",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_634e414726f9597f.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_2b9ed8e4ace311de",
+    "candidate_id": "rfd4_2b9ed8e4ace311de",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_2b9ed8e4ace311de.cif.gz",
+    "structure_sha256": "1925d21a6a542003d31cbbc9f3d94379e050c994014bef04873942ce5e871cea",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_2b9ed8e4ace311de.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_050b8460d187028a",
+    "candidate_id": "rfd4_050b8460d187028a",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_050b8460d187028a.cif.gz",
+    "structure_sha256": "7844b0059b4558bfb3217af4f6c202458c314a5c6e5dc2118c3c660f23fc122a",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_050b8460d187028a.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_d598529addce8260",
+    "candidate_id": "rfd4_d598529addce8260",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_d598529addce8260.cif.gz",
+    "structure_sha256": "30a60f3ef5dea8373cedacf91bde3b315ed2d70c931729b5dda2f29b8e8c10bb",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_d598529addce8260.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_1f1f8f558c485729",
+    "candidate_id": "rfd4_1f1f8f558c485729",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_1f1f8f558c485729.cif.gz",
+    "structure_sha256": "e4832414c27203243d7fbea5235fc9ff36390981faa7e04582f7dbc9756e603d",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_1f1f8f558c485729.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_a27f60ef40250f0e",
+    "candidate_id": "rfd4_a27f60ef40250f0e",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_a27f60ef40250f0e.cif.gz",
+    "structure_sha256": "d445f5b76717310a6c6cf395fcaeb9de012fe24fad84efcc094d008ba50e1efd",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_a27f60ef40250f0e.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_a871b910e59bc1bd",
+    "candidate_id": "rfd4_a871b910e59bc1bd",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_a871b910e59bc1bd.cif.gz",
+    "structure_sha256": "a021609e64d117c923c3485bf442682c33faca196cd7cdee0de87ab003aef83a",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_a871b910e59bc1bd.cif"
+  },
+  {
+    "case_id": "ref6y90_rfd4_ff7a788732944cda",
+    "candidate_id": "rfd4_ff7a788732944cda",
+    "reference_id": "6Y90",
+    "route": "rfd4",
+    "file": "data/designs/6Y90/rfd4_ff7a788732944cda.cif.gz",
+    "structure_sha256": "928875761cfcca112a0ca3cd5af93e8785dd61b9055c4485edcf782fd112d738",
+    "workspace_structure": "refs/6Y90/results/candidates/rfd4_ff7a788732944cda.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_33a33361d7f6f898",
+    "candidate_id": "boltzgen_33a33361d7f6f898",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_33a33361d7f6f898.cif.gz",
+    "structure_sha256": "8e5a81ffdf70d17351c7869a27e7d21a2d348d170aba1a31878f785aaae3d864",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_33a33361d7f6f898.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_598728e10c56d626",
+    "candidate_id": "boltzgen_598728e10c56d626",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_598728e10c56d626.cif.gz",
+    "structure_sha256": "71802ecf4f98aa47211b9278d7dbab934e6371fbab85ccd262b994c3b196238f",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_598728e10c56d626.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_2840231b06a9c0e0",
+    "candidate_id": "boltzgen_2840231b06a9c0e0",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_2840231b06a9c0e0.cif.gz",
+    "structure_sha256": "89405d582849267328f818366fd45d75b10dc1a10d4bcec708cf3918128ec813",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_2840231b06a9c0e0.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_908caa2b580b49b3",
+    "candidate_id": "boltzgen_908caa2b580b49b3",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_908caa2b580b49b3.cif.gz",
+    "structure_sha256": "19fdd94bd90b3c3efa0ab1faf5d3b3a93f22d6c7cdfed6f5f4d50b56bd0dfd3c",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_908caa2b580b49b3.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_0cfbea9779c16bbd",
+    "candidate_id": "boltzgen_0cfbea9779c16bbd",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_0cfbea9779c16bbd.cif.gz",
+    "structure_sha256": "705e96723f37368eafc5c1a76dbc9ca428fc8816783e39263dd13cdae1ec4dab",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_0cfbea9779c16bbd.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_b20c516e9012de61",
+    "candidate_id": "boltzgen_b20c516e9012de61",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_b20c516e9012de61.cif.gz",
+    "structure_sha256": "900ede53494077e049ad5f33282c91d76ec4058d5a1116e481baab76d435cca3",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_b20c516e9012de61.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_603a4b4eb0ad6d75",
+    "candidate_id": "boltzgen_603a4b4eb0ad6d75",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_603a4b4eb0ad6d75.cif.gz",
+    "structure_sha256": "d49a8b18d8396dda1c32ca5845eba9811e9045bde7860a717c6f600ee69efe41",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_603a4b4eb0ad6d75.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_56ac55f687971378",
+    "candidate_id": "boltzgen_56ac55f687971378",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_56ac55f687971378.cif.gz",
+    "structure_sha256": "567ce69d7668c49b1179b46045ae1aa64b2fcc79ace5da53fdae7fc93018d78c",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_56ac55f687971378.cif"
+  },
+  {
+    "case_id": "ref6y90_boltzgen_16882f783575d253",
+    "candidate_id": "boltzgen_16882f783575d253",
+    "reference_id": "6Y90",
+    "route": "boltzgen",
+    "file": "data/designs/6Y90/boltzgen_16882f783575d253.cif.gz",
+    "structure_sha256": "26c2e4be87059012e329755e6106fa7665337249c8ee10bd5aa52a4991a39963",
+    "workspace_structure": "refs/6Y90/results/candidates/boltzgen_16882f783575d253.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_e2c6cd9a27d35a6b",
+    "candidate_id": "rfd4_e2c6cd9a27d35a6b",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_e2c6cd9a27d35a6b.cif.gz",
+    "structure_sha256": "e4df5721a5efbdddf07b6889cd2d4d11cdac140411fe28665b36db3830b498d2",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_e2c6cd9a27d35a6b.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_9f8e618cc85c9885",
+    "candidate_id": "boltzgen_9f8e618cc85c9885",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_9f8e618cc85c9885.cif.gz",
+    "structure_sha256": "2213b8dd221d5f6fda4f379e232be43d580650b698f32dcbf649ae1557ada7e8",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_9f8e618cc85c9885.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_121be550cceb7949",
+    "candidate_id": "rfd4_121be550cceb7949",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_121be550cceb7949.cif.gz",
+    "structure_sha256": "6ba7aea55c04ad235bddb5e2f8f3a5522653972682c3026da80c87a61a353efe",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_121be550cceb7949.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_3f8a10e1624f52ba",
+    "candidate_id": "rfd4_3f8a10e1624f52ba",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_3f8a10e1624f52ba.cif.gz",
+    "structure_sha256": "bbaad517303481f92461a8ec32f7dac5cef63966e3722f741abb6069e6b0fbe9",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_3f8a10e1624f52ba.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_47031617b9e96a84",
+    "candidate_id": "rfd4_47031617b9e96a84",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_47031617b9e96a84.cif.gz",
+    "structure_sha256": "f73776262eb1f20365ae5cac09e32e42cc670b1b0e2c37e9b261f2cd22b19d71",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_47031617b9e96a84.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_baab0350b0d9dbf8",
+    "candidate_id": "rfd4_baab0350b0d9dbf8",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_baab0350b0d9dbf8.cif.gz",
+    "structure_sha256": "dc50303554a5c7f7c283a05285ce16052e191ed256d5b9774e0f40cae9e3ef21",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_baab0350b0d9dbf8.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_deb54795d9c14480",
+    "candidate_id": "rfd4_deb54795d9c14480",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_deb54795d9c14480.cif.gz",
+    "structure_sha256": "0cec3fd542ba27240964f823dfab14f8a0f93554dae4e84f86d02501bc8fbed7",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_deb54795d9c14480.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_2ccd2eb6112c2106",
+    "candidate_id": "rfd4_2ccd2eb6112c2106",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_2ccd2eb6112c2106.cif.gz",
+    "structure_sha256": "c170c2e80e663415b24729908de0702abab10d591d4e3219f3be547d1972a269",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_2ccd2eb6112c2106.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_9623daaabec087bc",
+    "candidate_id": "rfd4_9623daaabec087bc",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_9623daaabec087bc.cif.gz",
+    "structure_sha256": "9203176b21dc6e0d6e2073038168b2b0a735e196f4263e4ab21228d4eb4ca4cd",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_9623daaabec087bc.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_76f09bbc0417d604",
+    "candidate_id": "rfd4_76f09bbc0417d604",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_76f09bbc0417d604.cif.gz",
+    "structure_sha256": "f60953695ddfda4fd1609bb66d74f3ed0b1f57d7daef1a71257cfca37e82f1ab",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_76f09bbc0417d604.cif"
+  },
+  {
+    "case_id": "ref6y92_rfd4_f0a76a43d1d85caf",
+    "candidate_id": "rfd4_f0a76a43d1d85caf",
+    "reference_id": "6Y92",
+    "route": "rfd4",
+    "file": "data/designs/6Y92/rfd4_f0a76a43d1d85caf.cif.gz",
+    "structure_sha256": "e602af0fbce73f35b8b4dfb9dbef14a871e7f5b93b5a3d8e6581ca575f72613b",
+    "workspace_structure": "refs/6Y92/results/candidates/rfd4_f0a76a43d1d85caf.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_07113f62174e0d21",
+    "candidate_id": "boltzgen_07113f62174e0d21",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_07113f62174e0d21.cif.gz",
+    "structure_sha256": "de16937318ef720ff3ac3576a6a34da31738e6228b883bb3f1bc67e933498b9c",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_07113f62174e0d21.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_57e8ef86deef9716",
+    "candidate_id": "boltzgen_57e8ef86deef9716",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_57e8ef86deef9716.cif.gz",
+    "structure_sha256": "fc757dfa54087b5c0f95eb245907543ae29e39189ef7cb708f221bd2c707a8c5",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_57e8ef86deef9716.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_0699b281fdbe56ca",
+    "candidate_id": "boltzgen_0699b281fdbe56ca",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_0699b281fdbe56ca.cif.gz",
+    "structure_sha256": "17a34274bf49cad64bc8cf9973732eb1cf44172c230cae20f62a4fbe80b871d4",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_0699b281fdbe56ca.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_b565fabc37aaff58",
+    "candidate_id": "boltzgen_b565fabc37aaff58",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_b565fabc37aaff58.cif.gz",
+    "structure_sha256": "6f0daa5251e6146d1ff7206688b52744a6db3b79823ee5d9bccf30bbef4ed076",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_b565fabc37aaff58.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_833c32d7c615878e",
+    "candidate_id": "boltzgen_833c32d7c615878e",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_833c32d7c615878e.cif.gz",
+    "structure_sha256": "d2b9e05fe4cc3efde8adeb87b24e5f6d7b04f8c5e80f356ad04f31254b3a09a5",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_833c32d7c615878e.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_f32f01d12a19e00c",
+    "candidate_id": "boltzgen_f32f01d12a19e00c",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_f32f01d12a19e00c.cif.gz",
+    "structure_sha256": "33e06759db1a8142569aa19f56eb5b94228a1aeca35bdbb9fdc48c15ec522c28",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_f32f01d12a19e00c.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_6057731d5069d1f9",
+    "candidate_id": "boltzgen_6057731d5069d1f9",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_6057731d5069d1f9.cif.gz",
+    "structure_sha256": "5ee2b433feabb1865c664c5bd98bddb8b81bf2539ed4aca4453e4dff9d29a201",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_6057731d5069d1f9.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_5befb5ab9f375d6e",
+    "candidate_id": "boltzgen_5befb5ab9f375d6e",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_5befb5ab9f375d6e.cif.gz",
+    "structure_sha256": "b3277e3c2701686565507f6e1d5fbc4c338ce5133b3dea021af8fd4b07d63996",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_5befb5ab9f375d6e.cif"
+  },
+  {
+    "case_id": "ref6y92_boltzgen_8b821b7da134c4c8",
+    "candidate_id": "boltzgen_8b821b7da134c4c8",
+    "reference_id": "6Y92",
+    "route": "boltzgen",
+    "file": "data/designs/6Y92/boltzgen_8b821b7da134c4c8.cif.gz",
+    "structure_sha256": "2dbd483c8fe3b4e739d68ea5872ea801fa6214928a422f9a9014ad6ff64a1944",
+    "workspace_structure": "refs/6Y92/results/candidates/boltzgen_8b821b7da134c4c8.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_c25dc3eeeabdb65d",
+    "candidate_id": "rfd4_c25dc3eeeabdb65d",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_c25dc3eeeabdb65d.cif.gz",
+    "structure_sha256": "f6047b8560680c90ee7bbabc17d8290068a69501e235f81e4e6d80ab42dee544",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_c25dc3eeeabdb65d.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_fc9c68299044f384",
+    "candidate_id": "boltzgen_fc9c68299044f384",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_fc9c68299044f384.cif.gz",
+    "structure_sha256": "0cadae5b12557d90515272f03c87c21bcf028f4e599cd5350471b83db9bca137",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_fc9c68299044f384.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_f05a12d81e6ec742",
+    "candidate_id": "rfd4_f05a12d81e6ec742",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_f05a12d81e6ec742.cif.gz",
+    "structure_sha256": "b589a7215d9be791585413f1ee561040dc9c27c5921395f42d2d27fb9c8dc993",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_f05a12d81e6ec742.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_355546b4da7acff1",
+    "candidate_id": "rfd4_355546b4da7acff1",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_355546b4da7acff1.cif.gz",
+    "structure_sha256": "683b2815021a385ac7358ce21a42c61e5e3a56d6841e63d3153cd1fd129a3032",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_355546b4da7acff1.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_b4d2512d0e8cef4e",
+    "candidate_id": "rfd4_b4d2512d0e8cef4e",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_b4d2512d0e8cef4e.cif.gz",
+    "structure_sha256": "739438f6e245bf92c4e03508840bd6316322e3267ca34518c12e189f569744ce",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_b4d2512d0e8cef4e.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_56f7243e17635888",
+    "candidate_id": "rfd4_56f7243e17635888",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_56f7243e17635888.cif.gz",
+    "structure_sha256": "e404ee807c21e0ae327fa0d941a949502d619dfa84674448f17406530b0ba9de",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_56f7243e17635888.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_ff6eeec583c2da1e",
+    "candidate_id": "rfd4_ff6eeec583c2da1e",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_ff6eeec583c2da1e.cif.gz",
+    "structure_sha256": "cf0b2b5dd2ec757322f1734b4b4ab0ae403b07db81b6d032a3d48ca778b72fb1",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_ff6eeec583c2da1e.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_631edcde5cab978d",
+    "candidate_id": "rfd4_631edcde5cab978d",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_631edcde5cab978d.cif.gz",
+    "structure_sha256": "cbb94b4934515ee2c3c541778aa646fc212ee18f156a62a2b4d50734a88780c9",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_631edcde5cab978d.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_f0ce51bbd5054de2",
+    "candidate_id": "rfd4_f0ce51bbd5054de2",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_f0ce51bbd5054de2.cif.gz",
+    "structure_sha256": "e0755f6353f0b86d7427dd407bb85f833f44807aa734b6ed4d1b5d984583ac94",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_f0ce51bbd5054de2.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_243d4a42a5728859",
+    "candidate_id": "rfd4_243d4a42a5728859",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_243d4a42a5728859.cif.gz",
+    "structure_sha256": "81413a5965ae2682299314bb9a4e0b77e5c7376c5f3692f72531c593c27c1c9c",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_243d4a42a5728859.cif"
+  },
+  {
+    "case_id": "ref6y97_rfd4_7d11bd1597d31f1c",
+    "candidate_id": "rfd4_7d11bd1597d31f1c",
+    "reference_id": "6Y97",
+    "route": "rfd4",
+    "file": "data/designs/6Y97/rfd4_7d11bd1597d31f1c.cif.gz",
+    "structure_sha256": "1205c4e6747d7a599fde6ca9de5dbbdb756da43c1a9863c472f035774973498f",
+    "workspace_structure": "refs/6Y97/results/candidates/rfd4_7d11bd1597d31f1c.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_f1091c8458004f04",
+    "candidate_id": "boltzgen_f1091c8458004f04",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_f1091c8458004f04.cif.gz",
+    "structure_sha256": "ed37dee61939035c98ba3504089d632cc1dd9baf095ec3127b661b144471ee84",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_f1091c8458004f04.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_fd57705a24912c68",
+    "candidate_id": "boltzgen_fd57705a24912c68",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_fd57705a24912c68.cif.gz",
+    "structure_sha256": "77a30d001cbd2e57950117327444d34ebcf05b1e9e1a098887b886da2653b304",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_fd57705a24912c68.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_492085d1f4c87c0e",
+    "candidate_id": "boltzgen_492085d1f4c87c0e",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_492085d1f4c87c0e.cif.gz",
+    "structure_sha256": "524e08b1a98dc9d48adeafdaa27a68af279a74ab52c3ebb47358f0b4a043a28f",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_492085d1f4c87c0e.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_cde0025cfabe5d63",
+    "candidate_id": "boltzgen_cde0025cfabe5d63",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_cde0025cfabe5d63.cif.gz",
+    "structure_sha256": "0ddfbe7b0b6783ab6426cb6fe1c630d2b14cf09492e9f2c5bebe696bbf9460bf",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_cde0025cfabe5d63.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_90de51815cfe39f6",
+    "candidate_id": "boltzgen_90de51815cfe39f6",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_90de51815cfe39f6.cif.gz",
+    "structure_sha256": "7ba6a7d6f493ea99227e41c52ee6f0fd7628a9bfe2e811123ae10766519f4a47",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_90de51815cfe39f6.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_ffa12c9f0dd4f29e",
+    "candidate_id": "boltzgen_ffa12c9f0dd4f29e",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_ffa12c9f0dd4f29e.cif.gz",
+    "structure_sha256": "452fccfb0a4222fb7fb6acb71eded50a532d055aa30dc431ecdec887f999425a",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_ffa12c9f0dd4f29e.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_cd6f7f30d12c7543",
+    "candidate_id": "boltzgen_cd6f7f30d12c7543",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_cd6f7f30d12c7543.cif.gz",
+    "structure_sha256": "3e69d609cf5bbb7820a50acb08b31c4147b2b1f6d95d0a90221088d2a125a300",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_cd6f7f30d12c7543.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_f44c530b1c68c16a",
+    "candidate_id": "boltzgen_f44c530b1c68c16a",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_f44c530b1c68c16a.cif.gz",
+    "structure_sha256": "3b76aa6f7e796ea737821c7c61c6d6a8f4967ec23b5fb041f487157713f6a74e",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_f44c530b1c68c16a.cif"
+  },
+  {
+    "case_id": "ref6y97_boltzgen_390bec373b8e2f91",
+    "candidate_id": "boltzgen_390bec373b8e2f91",
+    "reference_id": "6Y97",
+    "route": "boltzgen",
+    "file": "data/designs/6Y97/boltzgen_390bec373b8e2f91.cif.gz",
+    "structure_sha256": "6dd7e609c542193c005e12f1f72fa089426600945f36479466c3bd672d409a07",
+    "workspace_structure": "refs/6Y97/results/candidates/boltzgen_390bec373b8e2f91.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_ed1efb1c31270b5f",
+    "candidate_id": "rfd4_ed1efb1c31270b5f",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_ed1efb1c31270b5f.cif.gz",
+    "structure_sha256": "8d65220f1bae6e51725db637a82d808cc056234e20f852c2cfb253f1d0ee22c2",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_ed1efb1c31270b5f.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_cf945860065c5c70",
+    "candidate_id": "boltzgen_cf945860065c5c70",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_cf945860065c5c70.cif.gz",
+    "structure_sha256": "56fb19edee91116c7b9917cb440c38bd20b5d4241cb4aefac3f5f3c2bab67029",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_cf945860065c5c70.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_942ae2b130b3d31a",
+    "candidate_id": "rfd4_942ae2b130b3d31a",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_942ae2b130b3d31a.cif.gz",
+    "structure_sha256": "bc8ac35ec745d76f806b735abb4a41e6621aa6d464969da334c2db4a6d2fe332",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_942ae2b130b3d31a.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_bb7d7a6b9f77c0d7",
+    "candidate_id": "rfd4_bb7d7a6b9f77c0d7",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_bb7d7a6b9f77c0d7.cif.gz",
+    "structure_sha256": "132b0f4ce9471def65b8958349f99e3076ebd5c69c47533e9df1a63225147be6",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_bb7d7a6b9f77c0d7.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_fd940dd26dbf4374",
+    "candidate_id": "rfd4_fd940dd26dbf4374",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_fd940dd26dbf4374.cif.gz",
+    "structure_sha256": "d4e908cbff4d9af5fea65645d709e3c4778e50dc25cd489dc3287fb9424a7bb3",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_fd940dd26dbf4374.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_0f6a44df3c690ff4",
+    "candidate_id": "rfd4_0f6a44df3c690ff4",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_0f6a44df3c690ff4.cif.gz",
+    "structure_sha256": "13d4c5c23a24bc64625ebb5526016e38f3963b5965c527558e4dcc085e64b4b7",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_0f6a44df3c690ff4.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_43a37ba14eddd766",
+    "candidate_id": "rfd4_43a37ba14eddd766",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_43a37ba14eddd766.cif.gz",
+    "structure_sha256": "0bac1f34847cb29d073ffddfe66185e57422a67a1cb7eeb312919eb97677b8d2",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_43a37ba14eddd766.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_6140483631911cef",
+    "candidate_id": "rfd4_6140483631911cef",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_6140483631911cef.cif.gz",
+    "structure_sha256": "394454243c6e677689cd5e7f02902608a48f0e65f0a33d8b10c8c212f8c88b38",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_6140483631911cef.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_36a96898d4c3f882",
+    "candidate_id": "rfd4_36a96898d4c3f882",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_36a96898d4c3f882.cif.gz",
+    "structure_sha256": "813c44dd569fe6d9bb6258a70a3ef4777ecdaa1ac4a2476e5be55da85b3148aa",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_36a96898d4c3f882.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_d153b355c516d49c",
+    "candidate_id": "rfd4_d153b355c516d49c",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_d153b355c516d49c.cif.gz",
+    "structure_sha256": "ee9621496d0e0c25dd3e30dbf82411d5f0e3a54878c1aba4786f9cad14331c68",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_d153b355c516d49c.cif"
+  },
+  {
+    "case_id": "ref6y9a_rfd4_a0c1392754854d08",
+    "candidate_id": "rfd4_a0c1392754854d08",
+    "reference_id": "6Y9A",
+    "route": "rfd4",
+    "file": "data/designs/6Y9A/rfd4_a0c1392754854d08.cif.gz",
+    "structure_sha256": "2d87df961fdf92abd11f5ac2aa844ebc0e1275af8232438e4ef34139e494a9b3",
+    "workspace_structure": "refs/6Y9A/results/candidates/rfd4_a0c1392754854d08.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_a579395c4cbbe80d",
+    "candidate_id": "boltzgen_a579395c4cbbe80d",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_a579395c4cbbe80d.cif.gz",
+    "structure_sha256": "9d24bb3c2730d02f4999a714b7cba03ba5b036bab2cdb4793a7912511751df92",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_a579395c4cbbe80d.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_752f930727738988",
+    "candidate_id": "boltzgen_752f930727738988",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_752f930727738988.cif.gz",
+    "structure_sha256": "c85310389fb937862da0e421017300e59fbcca641673bae1afabe3cf6660fe47",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_752f930727738988.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_0167aa9efa11bc45",
+    "candidate_id": "boltzgen_0167aa9efa11bc45",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_0167aa9efa11bc45.cif.gz",
+    "structure_sha256": "a5207cb4e20c2637a773cf968370d22c24cc534fa2612f3d978c529bb859a229",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_0167aa9efa11bc45.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_c11c4df5de173437",
+    "candidate_id": "boltzgen_c11c4df5de173437",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_c11c4df5de173437.cif.gz",
+    "structure_sha256": "0d85ceeacf6b73a6958ce1ca1022ed14070b91d09ec7bc147056640e214f9daf",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_c11c4df5de173437.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_d1d26cad0817c671",
+    "candidate_id": "boltzgen_d1d26cad0817c671",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_d1d26cad0817c671.cif.gz",
+    "structure_sha256": "4de03aee72a86f41942dcfebf7fcdf7a57f27a53c6202e90076a1f7ac1458118",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_d1d26cad0817c671.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_5dd3b22a97f6da00",
+    "candidate_id": "boltzgen_5dd3b22a97f6da00",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_5dd3b22a97f6da00.cif.gz",
+    "structure_sha256": "ec206de7edf15875468fda9c8f363a7f09e1923163e8cc15df48fb57ae716b79",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_5dd3b22a97f6da00.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_fb012f52ac00de02",
+    "candidate_id": "boltzgen_fb012f52ac00de02",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_fb012f52ac00de02.cif.gz",
+    "structure_sha256": "787c44ad3b8b6b8477587dd0e59e2a70b2b1264ed962261cdcc657dbb7827813",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_fb012f52ac00de02.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_cdc3f3f17d47d78e",
+    "candidate_id": "boltzgen_cdc3f3f17d47d78e",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_cdc3f3f17d47d78e.cif.gz",
+    "structure_sha256": "039ab05b04ade6d723ef694d42ca2d4d9e8021953e26b74237cea90be5f0fce4",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_cdc3f3f17d47d78e.cif"
+  },
+  {
+    "case_id": "ref6y9a_boltzgen_52a78eaef950f96c",
+    "candidate_id": "boltzgen_52a78eaef950f96c",
+    "reference_id": "6Y9A",
+    "route": "boltzgen",
+    "file": "data/designs/6Y9A/boltzgen_52a78eaef950f96c.cif.gz",
+    "structure_sha256": "9559cd343b419f0ffaf4e4425f5bbfe47eb2e13ab972f1fcf8aeaf656de43e5f",
+    "workspace_structure": "refs/6Y9A/results/candidates/boltzgen_52a78eaef950f96c.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_2a3ae83c02bd4218",
+    "candidate_id": "rfd4_2a3ae83c02bd4218",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_2a3ae83c02bd4218.cif.gz",
+    "structure_sha256": "214b5c13056954226e34adf5045549186d262fffdeeac9dc1f74623b77ab3fab",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_2a3ae83c02bd4218.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_531e0c67c57e10f9",
+    "candidate_id": "boltzgen_531e0c67c57e10f9",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_531e0c67c57e10f9.cif.gz",
+    "structure_sha256": "d1db20629c0250c8913364adf57b57f8c210b94b3df948c830be6c3087ce6b7a",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_531e0c67c57e10f9.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_64368d087014bee9",
+    "candidate_id": "rfd4_64368d087014bee9",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_64368d087014bee9.cif.gz",
+    "structure_sha256": "a3eaea5e8a9d643de801c35a188d106dd20222d046e43e94a7bbb4167ee4b00d",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_64368d087014bee9.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_1d04d5aeddf89b4d",
+    "candidate_id": "rfd4_1d04d5aeddf89b4d",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_1d04d5aeddf89b4d.cif.gz",
+    "structure_sha256": "26dac0d745aa72c7f88247dadf16731b8199ec9481ae6ea1013a04aa1f916200",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_1d04d5aeddf89b4d.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_a494e6f1e79b6591",
+    "candidate_id": "rfd4_a494e6f1e79b6591",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_a494e6f1e79b6591.cif.gz",
+    "structure_sha256": "6d05f23824efe1e870bc29dd03552cb36dae4e61452411a23ec3bd10f6f06eb3",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_a494e6f1e79b6591.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_c3e229d19f5bba63",
+    "candidate_id": "rfd4_c3e229d19f5bba63",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_c3e229d19f5bba63.cif.gz",
+    "structure_sha256": "d951c006e8ce687de8b3cf4da5e9c55f00417dca3360f9c414169f6be9228c7c",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_c3e229d19f5bba63.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_0e3bf593978ed58e",
+    "candidate_id": "rfd4_0e3bf593978ed58e",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_0e3bf593978ed58e.cif.gz",
+    "structure_sha256": "f93060fa8cf6f34a0d9c7db0646493ae2a1c9a2c710e2a18c6c98d19d02d5a89",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_0e3bf593978ed58e.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_44b7a5bda71681b7",
+    "candidate_id": "rfd4_44b7a5bda71681b7",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_44b7a5bda71681b7.cif.gz",
+    "structure_sha256": "9a0ebb16acbf16459cf0b916c56c71a67d4e22c5fc793353e11f63e0268c3541",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_44b7a5bda71681b7.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_c9e9481578b834b4",
+    "candidate_id": "rfd4_c9e9481578b834b4",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_c9e9481578b834b4.cif.gz",
+    "structure_sha256": "de5c3bbc951bd5d2e6ddc0a02971918a0b8e5930839fed04efe3a4b413ca9b40",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_c9e9481578b834b4.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_ad79df744a39e375",
+    "candidate_id": "rfd4_ad79df744a39e375",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_ad79df744a39e375.cif.gz",
+    "structure_sha256": "1dfdc46c53236d31385b1874b84ee7e329e1f2698b1e1d7db27fcec6c31f124d",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_ad79df744a39e375.cif"
+  },
+  {
+    "case_id": "ref8vgn_rfd4_fef2f6da7c68c673",
+    "candidate_id": "rfd4_fef2f6da7c68c673",
+    "reference_id": "8VGN",
+    "route": "rfd4",
+    "file": "data/designs/8VGN/rfd4_fef2f6da7c68c673.cif.gz",
+    "structure_sha256": "a68e5aab6d2b1012eef155f2dd73c5e05b1f94ccc141897585abe098fcb2dfd3",
+    "workspace_structure": "refs/8VGN/results/candidates/rfd4_fef2f6da7c68c673.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_da9b0dba0f46ba5f",
+    "candidate_id": "boltzgen_da9b0dba0f46ba5f",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_da9b0dba0f46ba5f.cif.gz",
+    "structure_sha256": "011dc29bde25d4e2c8850ac9cb205608b1c84b936ed51bd33177905c78c7ed03",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_da9b0dba0f46ba5f.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_9ccc837e21a10d8c",
+    "candidate_id": "boltzgen_9ccc837e21a10d8c",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_9ccc837e21a10d8c.cif.gz",
+    "structure_sha256": "4cf5ab3088cef8a4539dd98408147e6623ad26a89d31c1a741871c8c49ea86a0",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_9ccc837e21a10d8c.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_21c9413e42395fe4",
+    "candidate_id": "boltzgen_21c9413e42395fe4",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_21c9413e42395fe4.cif.gz",
+    "structure_sha256": "4d33ae6bc172e187afc1daefb5a71ad86f5897703e43bdf0f8ccd91c4b695875",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_21c9413e42395fe4.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_f63fe74130bcc136",
+    "candidate_id": "boltzgen_f63fe74130bcc136",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_f63fe74130bcc136.cif.gz",
+    "structure_sha256": "f3a653d4fd7e487b03428caa5d064161a97876aeff9609f62a834b84aa784355",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_f63fe74130bcc136.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_4d0306d339ff538b",
+    "candidate_id": "boltzgen_4d0306d339ff538b",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_4d0306d339ff538b.cif.gz",
+    "structure_sha256": "c84af84e43c9d799c42d7ebe59fc3d199d983599ab16afe998b46505feb32050",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_4d0306d339ff538b.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_8d4bd464b8f5b6ce",
+    "candidate_id": "boltzgen_8d4bd464b8f5b6ce",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_8d4bd464b8f5b6ce.cif.gz",
+    "structure_sha256": "0c372f870f804c44a91d1916ee7a48f7039e1a4d45a3b71244ad169eb1b1dfc4",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_8d4bd464b8f5b6ce.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_178fdede8763d7ac",
+    "candidate_id": "boltzgen_178fdede8763d7ac",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_178fdede8763d7ac.cif.gz",
+    "structure_sha256": "34fd6e69fae40eb04657c426262b700676d50157fcfc47a40718742d2e66bd38",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_178fdede8763d7ac.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_c1d8b81bf281b90d",
+    "candidate_id": "boltzgen_c1d8b81bf281b90d",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_c1d8b81bf281b90d.cif.gz",
+    "structure_sha256": "3553f47222561f4f7e0ddd44e3d7f81c83d5fbc458e845b98e850b0d1a627c60",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_c1d8b81bf281b90d.cif"
+  },
+  {
+    "case_id": "ref8vgn_boltzgen_244288cd09c6ef21",
+    "candidate_id": "boltzgen_244288cd09c6ef21",
+    "reference_id": "8VGN",
+    "route": "boltzgen",
+    "file": "data/designs/8VGN/boltzgen_244288cd09c6ef21.cif.gz",
+    "structure_sha256": "77bb17a3585b98d876ae80761d41bed89eb2ef4110714ce1c3e978d319bd2b80",
+    "workspace_structure": "refs/8VGN/results/candidates/boltzgen_244288cd09c6ef21.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_9748779a6210a5e4",
+    "candidate_id": "rfd4_9748779a6210a5e4",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_9748779a6210a5e4.cif.gz",
+    "structure_sha256": "fecfcafca4a7e6cc84349de768f9a43609640d33539502240780d1851a6d1a39",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_9748779a6210a5e4.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_6f6038137b8b3b67",
+    "candidate_id": "boltzgen_6f6038137b8b3b67",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_6f6038137b8b3b67.cif.gz",
+    "structure_sha256": "93f029181549b1083220086b16c24fcaca9f614779ffa161fdb2f22f39558bb0",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_6f6038137b8b3b67.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_0f94c63c36416c5e",
+    "candidate_id": "rfd4_0f94c63c36416c5e",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_0f94c63c36416c5e.cif.gz",
+    "structure_sha256": "aa1a10ccd0b406ace7d5446ed3a9bd3e569e27eccfd49969e2569f39c197df7b",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_0f94c63c36416c5e.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_c43fc020910b43fc",
+    "candidate_id": "rfd4_c43fc020910b43fc",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_c43fc020910b43fc.cif.gz",
+    "structure_sha256": "4049fe243122c9c5380b8b9b425b2f497284205c04671c5a27295c5cb1fa2941",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_c43fc020910b43fc.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_67e90fa687925c18",
+    "candidate_id": "rfd4_67e90fa687925c18",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_67e90fa687925c18.cif.gz",
+    "structure_sha256": "691dbf189cbbe3ab2a3a9a58f350133d57dd92136d778a7c1ad51c996aa0de2d",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_67e90fa687925c18.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_b3043a1c7c076095",
+    "candidate_id": "rfd4_b3043a1c7c076095",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_b3043a1c7c076095.cif.gz",
+    "structure_sha256": "903c0ff8385399474f94d7c04c5c6ad2efba147e125d652c7fb3de2a0698585c",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_b3043a1c7c076095.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_60023b26ab087d8b",
+    "candidate_id": "rfd4_60023b26ab087d8b",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_60023b26ab087d8b.cif.gz",
+    "structure_sha256": "a5ba200fc0720dfc697f6d1f06c949f726fa38dc18845e539d5f17c2b7712a32",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_60023b26ab087d8b.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_05afcb74b854439f",
+    "candidate_id": "rfd4_05afcb74b854439f",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_05afcb74b854439f.cif.gz",
+    "structure_sha256": "faa7ef3095ba3381fe41527189b83c968ce5ce6cc83822d040775ca22be4749e",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_05afcb74b854439f.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_a7ecd847e52dbb4a",
+    "candidate_id": "rfd4_a7ecd847e52dbb4a",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_a7ecd847e52dbb4a.cif.gz",
+    "structure_sha256": "dd973acd3f35e14b3f4f43284fd468c3f6365848b7731253adea41311483c0d4",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_a7ecd847e52dbb4a.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_64c5903d2b84da21",
+    "candidate_id": "rfd4_64c5903d2b84da21",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_64c5903d2b84da21.cif.gz",
+    "structure_sha256": "e283395cdac141b60d9c605265b09403b3717afaa767f1fd35ce0a377d1e8d10",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_64c5903d2b84da21.cif"
+  },
+  {
+    "case_id": "ref8vgo_rfd4_4894f8a187eee84d",
+    "candidate_id": "rfd4_4894f8a187eee84d",
+    "reference_id": "8VGO",
+    "route": "rfd4",
+    "file": "data/designs/8VGO/rfd4_4894f8a187eee84d.cif.gz",
+    "structure_sha256": "3011d6935c59852520b62a7d26e35f5d2866fe2aaf899a1f7aa4b66b8f57b3e2",
+    "workspace_structure": "refs/8VGO/results/candidates/rfd4_4894f8a187eee84d.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_2b361c2b36ae79db",
+    "candidate_id": "boltzgen_2b361c2b36ae79db",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_2b361c2b36ae79db.cif.gz",
+    "structure_sha256": "c52cc507bd149a998fe993eac58eab67a984cfbc2f3b50b57340bc735220d362",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_2b361c2b36ae79db.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_104b80f59e6085cd",
+    "candidate_id": "boltzgen_104b80f59e6085cd",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_104b80f59e6085cd.cif.gz",
+    "structure_sha256": "220647f745b7fd06a5279dc934013e23bf536ad73810d92fc8344cadfd91809e",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_104b80f59e6085cd.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_c817a92f7c142160",
+    "candidate_id": "boltzgen_c817a92f7c142160",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_c817a92f7c142160.cif.gz",
+    "structure_sha256": "d12593b9d52c95751a60f8e3a101410149dde1738cbc3dc52ef63478a37aa4e0",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_c817a92f7c142160.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_4aecfe44daffd75a",
+    "candidate_id": "boltzgen_4aecfe44daffd75a",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_4aecfe44daffd75a.cif.gz",
+    "structure_sha256": "6f0055c060de957779a5af47e41f372db05c8ce9807e257f44113779d704c32a",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_4aecfe44daffd75a.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_2a80c0b376382066",
+    "candidate_id": "boltzgen_2a80c0b376382066",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_2a80c0b376382066.cif.gz",
+    "structure_sha256": "1a5ac440877b1dfdfeab32bb86924d6b39965549817375eac6199e230719616d",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_2a80c0b376382066.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_36addc334f1c0a1b",
+    "candidate_id": "boltzgen_36addc334f1c0a1b",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_36addc334f1c0a1b.cif.gz",
+    "structure_sha256": "03a6ed2472218939fe3fb6c76d0c410c40738a0094c1496bf39f7742584fe3af",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_36addc334f1c0a1b.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_fa24aa36946525a3",
+    "candidate_id": "boltzgen_fa24aa36946525a3",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_fa24aa36946525a3.cif.gz",
+    "structure_sha256": "d857481f179e5f4b36e7864a4c76f3d9a156c1271ab701616fd6b9eb8702787c",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_fa24aa36946525a3.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_3b037291edfea75a",
+    "candidate_id": "boltzgen_3b037291edfea75a",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_3b037291edfea75a.cif.gz",
+    "structure_sha256": "81ea6b3ac1136d459bc0bdf1093c864bb5ffd1d45b436dc00e1ea75017932be3",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_3b037291edfea75a.cif"
+  },
+  {
+    "case_id": "ref8vgo_boltzgen_5ea5c9e3a3767b17",
+    "candidate_id": "boltzgen_5ea5c9e3a3767b17",
+    "reference_id": "8VGO",
+    "route": "boltzgen",
+    "file": "data/designs/8VGO/boltzgen_5ea5c9e3a3767b17.cif.gz",
+    "structure_sha256": "662037fe40a487790f267a6f78a26b90d2a943ac9041174f7eb92dffbc4abfbb",
+    "workspace_structure": "refs/8VGO/results/candidates/boltzgen_5ea5c9e3a3767b17.cif"
+  }
+]

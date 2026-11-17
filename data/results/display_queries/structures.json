@@ -1,0 +1,702 @@
+[
+  {
+    "key": "6VJA/rfd4_0cb979b23fd0bc57",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_0cb979b23fd0bc57",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 25.214703474808363,
+    "consensus": 0.9473684210526315
+  },
+  {
+    "key": "6VJA/rfd4_8e05bbfd0da2e0e4",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_8e05bbfd0da2e0e4",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 12.447666020655172,
+    "consensus": 0.8947368421052632
+  },
+  {
+    "key": "6VJA/rfd4_10e1217064ab3999",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_10e1217064ab3999",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 25.742805872614102,
+    "consensus": 0.8421052631578947
+  },
+  {
+    "key": "6VJA/rfd4_71e114dda27da1f4",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_71e114dda27da1f4",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 21.168030025151108,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6VJA/rfd4_fa79f70c4737eb47",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_fa79f70c4737eb47",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 21.425471185351473,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6VJA/boltzgen_5ef06e0066bc5d9d",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_5ef06e0066bc5d9d",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 20.454442846226293,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "6VJA/boltzgen_954c18d3f61316cc",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_954c18d3f61316cc",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 21.203975461718116,
+    "consensus": 0.631578947368421
+  },
+  {
+    "key": "6VJA/boltzgen_2df73dfc5ac51e6c",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_2df73dfc5ac51e6c",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 22.95108079974034,
+    "consensus": 0.5263157894736842
+  },
+  {
+    "key": "6VJA/boltzgen_4cc3b45006b2854c",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_4cc3b45006b2854c",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 23.153804465704177,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "6VJA/boltzgen_c5166768969d7d3c",
+    "reference_id": "6VJA",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_c5166768969d7d3c",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 22.528091579116523,
+    "consensus": 0.3157894736842105
+  },
+  {
+    "key": "6Y90/rfd4_ff7a788732944cda",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_ff7a788732944cda",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 17.718882511158842,
+    "consensus": 0.8157894736842105
+  },
+  {
+    "key": "6Y90/rfd4_ae6cb0d2a3e7bae2",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_ae6cb0d2a3e7bae2",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 21.529851512513776,
+    "consensus": 0.8157894736842105
+  },
+  {
+    "key": "6Y90/rfd4_050b8460d187028a",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_050b8460d187028a",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 19.287824140872715,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y90/rfd4_2b9ed8e4ace311de",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_2b9ed8e4ace311de",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 22.3113038401512,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y90/rfd4_634e414726f9597f",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_634e414726f9597f",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 21.633244439714655,
+    "consensus": 0.631578947368421
+  },
+  {
+    "key": "6Y90/boltzgen_33a33361d7f6f898",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_33a33361d7f6f898",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 18.33944647668591,
+    "consensus": 0.8421052631578947
+  },
+  {
+    "key": "6Y90/boltzgen_56ac55f687971378",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_56ac55f687971378",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 23.63238041937789,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6Y90/boltzgen_598728e10c56d626",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_598728e10c56d626",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 24.043544187347344,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6Y90/boltzgen_603a4b4eb0ad6d75",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_603a4b4eb0ad6d75",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 80.97277552526701,
+    "consensus": 0.47368421052631576
+  },
+  {
+    "key": "6Y90/boltzgen_16882f783575d253",
+    "reference_id": "6Y90",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_16882f783575d253",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 18.9771629356367,
+    "consensus": 0.4473684210526316
+  },
+  {
+    "key": "6Y92/rfd4_e2c6cd9a27d35a6b",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "rfd4_e2c6cd9a27d35a6b",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 21.99684580510649,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "6Y92/rfd4_f0a76a43d1d85caf",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "rfd4_f0a76a43d1d85caf",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 25.617723999020896,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "6Y92/rfd4_2ccd2eb6112c2106",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "rfd4_2ccd2eb6112c2106",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 18.64697791238446,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y92/rfd4_76f09bbc0417d604",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "rfd4_76f09bbc0417d604",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 22.113234953220697,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y92/rfd4_121be550cceb7949",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "rfd4_121be550cceb7949",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 20.866175483619312,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6Y92/boltzgen_b565fabc37aaff58",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "boltzgen_b565fabc37aaff58",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 13.116208787631383,
+    "consensus": 0.5263157894736842
+  },
+  {
+    "key": "6Y92/boltzgen_6057731d5069d1f9",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "boltzgen_6057731d5069d1f9",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 21.540293351360212,
+    "consensus": 0.42105263157894735
+  },
+  {
+    "key": "6Y92/boltzgen_8b821b7da134c4c8",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "boltzgen_8b821b7da134c4c8",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 23.520323362359008,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "6Y92/boltzgen_833c32d7c615878e",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "boltzgen_833c32d7c615878e",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 24.76808408482496,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "6Y92/boltzgen_57e8ef86deef9716",
+    "reference_id": "6Y92",
+    "family": "Ofatumumab",
+    "candidate_id": "boltzgen_57e8ef86deef9716",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 25.346916919041217,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "6Y97/rfd4_c25dc3eeeabdb65d",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_c25dc3eeeabdb65d",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 23.25101988976996,
+    "consensus": 0.8421052631578947
+  },
+  {
+    "key": "6Y97/rfd4_f05a12d81e6ec742",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_f05a12d81e6ec742",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 17.227219322263498,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "6Y97/rfd4_f0ce51bbd5054de2",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_f0ce51bbd5054de2",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 14.876225983322051,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y97/rfd4_b4d2512d0e8cef4e",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_b4d2512d0e8cef4e",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 14.178597769209105,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6Y97/rfd4_355546b4da7acff1",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_355546b4da7acff1",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 19.448735023633155,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6Y97/boltzgen_fd57705a24912c68",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_fd57705a24912c68",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 20.191681414213928,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "6Y97/boltzgen_390bec373b8e2f91",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_390bec373b8e2f91",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 22.725869263204252,
+    "consensus": 0.42105263157894735
+  },
+  {
+    "key": "6Y97/boltzgen_f44c530b1c68c16a",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_f44c530b1c68c16a",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 18.607503459604654,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "6Y97/boltzgen_cd6f7f30d12c7543",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_cd6f7f30d12c7543",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 23.687004878903554,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "6Y97/boltzgen_cde0025cfabe5d63",
+    "reference_id": "6Y97",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_cde0025cfabe5d63",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 18.728890189288048,
+    "consensus": 0.3157894736842105
+  },
+  {
+    "key": "6Y9A/rfd4_d153b355c516d49c",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_d153b355c516d49c",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 22.469673685012374,
+    "consensus": 0.8421052631578947
+  },
+  {
+    "key": "6Y9A/rfd4_6140483631911cef",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_6140483631911cef",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 22.503767208339227,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "6Y9A/rfd4_a0c1392754854d08",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_a0c1392754854d08",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 23.672203121002656,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "6Y9A/rfd4_ed1efb1c31270b5f",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_ed1efb1c31270b5f",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 18.405762031581872,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y9A/rfd4_43a37ba14eddd766",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "rfd4_43a37ba14eddd766",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 18.94139863312827,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "6Y9A/boltzgen_d1d26cad0817c671",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_d1d26cad0817c671",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 91.70034775838673,
+    "consensus": 0.8947368421052632
+  },
+  {
+    "key": "6Y9A/boltzgen_cdc3f3f17d47d78e",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_cdc3f3f17d47d78e",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 21.93850971878651,
+    "consensus": 0.5263157894736842
+  },
+  {
+    "key": "6Y9A/boltzgen_c11c4df5de173437",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_c11c4df5de173437",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 23.135783866208516,
+    "consensus": 0.5263157894736842
+  },
+  {
+    "key": "6Y9A/boltzgen_5dd3b22a97f6da00",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_5dd3b22a97f6da00",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 18.431508697973538,
+    "consensus": 0.47368421052631576
+  },
+  {
+    "key": "6Y9A/boltzgen_fb012f52ac00de02",
+    "reference_id": "6Y9A",
+    "family": "Obinutuzumab",
+    "candidate_id": "boltzgen_fb012f52ac00de02",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 13.896322210699635,
+    "consensus": 0.42105263157894735
+  },
+  {
+    "key": "8VGN/rfd4_a494e6f1e79b6591",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_a494e6f1e79b6591",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 17.684010684510273,
+    "consensus": 0.8947368421052632
+  },
+  {
+    "key": "8VGN/rfd4_2a3ae83c02bd4218",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_2a3ae83c02bd4218",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 28.236917548109318,
+    "consensus": 0.8421052631578947
+  },
+  {
+    "key": "8VGN/rfd4_fef2f6da7c68c673",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_fef2f6da7c68c673",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 18.453674686979195,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "8VGN/rfd4_64368d087014bee9",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_64368d087014bee9",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 22.519060924511614,
+    "consensus": 0.7894736842105263
+  },
+  {
+    "key": "8VGN/rfd4_44b7a5bda71681b7",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "rfd4_44b7a5bda71681b7",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 23.077393001149332,
+    "consensus": 0.7631578947368421
+  },
+  {
+    "key": "8VGN/boltzgen_21c9413e42395fe4",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_21c9413e42395fe4",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 13.00023517486198,
+    "consensus": 0.5263157894736842
+  },
+  {
+    "key": "8VGN/boltzgen_da9b0dba0f46ba5f",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_da9b0dba0f46ba5f",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 12.894189716448755,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "8VGN/boltzgen_9ccc837e21a10d8c",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_9ccc837e21a10d8c",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 17.744063900363336,
+    "consensus": 0.3684210526315789
+  },
+  {
+    "key": "8VGN/boltzgen_4d0306d339ff538b",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_4d0306d339ff538b",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 20.505846064299043,
+    "consensus": 0.34210526315789475
+  },
+  {
+    "key": "8VGN/boltzgen_244288cd09c6ef21",
+    "reference_id": "8VGN",
+    "family": "Rituximab",
+    "candidate_id": "boltzgen_244288cd09c6ef21",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 20.95486218893193,
+    "consensus": 0.2631578947368421
+  },
+  {
+    "key": "8VGO/rfd4_67e90fa687925c18",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "rfd4_67e90fa687925c18",
+    "route": "rfd4",
+    "rank": 1,
+    "poseRmsd": 25.395106828173788,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "8VGO/rfd4_0f94c63c36416c5e",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "rfd4_0f94c63c36416c5e",
+    "route": "rfd4",
+    "rank": 2,
+    "poseRmsd": 28.311253344818674,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "8VGO/rfd4_05afcb74b854439f",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "rfd4_05afcb74b854439f",
+    "route": "rfd4",
+    "rank": 3,
+    "poseRmsd": 25.331095686508103,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "8VGO/rfd4_60023b26ab087d8b",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "rfd4_60023b26ab087d8b",
+    "route": "rfd4",
+    "rank": 4,
+    "poseRmsd": 20.470756397929637,
+    "consensus": 0.5789473684210527
+  },
+  {
+    "key": "8VGO/rfd4_4894f8a187eee84d",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "rfd4_4894f8a187eee84d",
+    "route": "rfd4",
+    "rank": 5,
+    "poseRmsd": 24.63637735315281,
+    "consensus": 0.5526315789473685
+  },
+  {
+    "key": "8VGO/boltzgen_2a80c0b376382066",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "boltzgen_2a80c0b376382066",
+    "route": "boltzgen",
+    "rank": 1,
+    "poseRmsd": 18.565208880211525,
+    "consensus": 1.0
+  },
+  {
+    "key": "8VGO/boltzgen_4aecfe44daffd75a",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "boltzgen_4aecfe44daffd75a",
+    "route": "boltzgen",
+    "rank": 2,
+    "poseRmsd": 24.382252574059805,
+    "consensus": 0.9473684210526315
+  },
+  {
+    "key": "8VGO/boltzgen_2b361c2b36ae79db",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "boltzgen_2b361c2b36ae79db",
+    "route": "boltzgen",
+    "rank": 3,
+    "poseRmsd": 82.20057524469777,
+    "consensus": 0.7368421052631579
+  },
+  {
+    "key": "8VGO/boltzgen_104b80f59e6085cd",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "boltzgen_104b80f59e6085cd",
+    "route": "boltzgen",
+    "rank": 4,
+    "poseRmsd": 17.809705241512646,
+    "consensus": 0.6842105263157895
+  },
+  {
+    "key": "8VGO/boltzgen_5ea5c9e3a3767b17",
+    "reference_id": "8VGO",
+    "family": "Rituximab.4DS",
+    "candidate_id": "boltzgen_5ea5c9e3a3767b17",
+    "route": "boltzgen",
+    "rank": 5,
+    "poseRmsd": 26.887606895764943,
+    "consensus": 0.47368421052631576
+  }
+]

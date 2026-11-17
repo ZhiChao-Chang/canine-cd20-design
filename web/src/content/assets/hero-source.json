@@ -1,0 +1,6 @@
+{
+  "scene_key": "6VJA/rfd4_0cb979b23fd0bc57",
+  "model": "alphafold3",
+  "source": "Actual accepted prediction scene; camera orientation only",
+  "renderer": "Local CPU SwiftShader WebGL"
+}

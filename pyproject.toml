@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "canine-cd20-design"
+version = "0.1.0"
+description = "Reference-conditioned canine CD20 antibody design and structural analysis"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{name = "ZhiChao-Chang"}]
+dependencies = ["numpy==2.2.6", "gemmi==0.7.5", "PyYAML==6.0.3", "biopython==1.88"]
+
+[project.scripts]
+cd20-design = "canine_cd20.__main__:main"
+
+[project.urls]
+Repository = "https://github.com/ZhiChao-Chang/canine-cd20-design"
+Results = "https://zhichao-chang.github.io/canine-cd20-design/"
+
+[tool.setuptools.packages.find]
+where = ["src"]

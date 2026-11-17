@@ -1,0 +1,36 @@
+:root{
+  color-scheme:light dark;
+  --adaptive-theme:1;
+  --font-sans-default:-apple-system,BlinkMacSystemFont,"SF Pro Display","PingFang SC","Hiragino Sans GB","Microsoft YaHei","Noto Sans CJK SC",Arial,sans-serif;
+  --font-sans:var(--font-sans-default);
+  --background:light-dark(#ffffff,#080808);
+  --surface:light-dark(#ffffff,#151515);
+  --surface-raised:light-dark(#ffffff,#202020);
+  --muted:light-dark(#f5f5f7,#1c1c1e);
+  --control:light-dark(#ffffff,#161616);
+  --control-hover:light-dark(#f1f2f4,#262628);
+  --interaction-hover:var(--control-hover);
+  --interaction-active:var(--muted);
+  --text:light-dark(#080808,#ffffff);
+  --secondary:var(--text);
+  --border:light-dark(#e5e5ea,#353538);
+  --border-strong:light-dark(#ceced5,#58585d);
+  --accent:light-dark(#0071e3,#75b8ff);
+  --positive:light-dark(#087d50,#6fdfad);
+  --negative:light-dark(#be3100,#ff9b7b);
+  --chart-1:light-dark(#0071e3,#75b8ff);
+  --chart-2:light-dark(#cc4a00,#ffab69);
+  --chart-3:light-dark(#07835f,#6ed9b3);
+  --chart-4:light-dark(#9146b3,#d49cf0);
+  --chart-5:light-dark(#b03278,#f297c9);
+  --chart-6:light-dark(#9c6b00,#e5c46a);
+  --chart-7:light-dark(#a23126,#eea096);
+  --chart-8:light-dark(#080808,#ffffff);
+  --chart-neutral-fill:color-mix(in srgb,var(--text) 4%,var(--surface));
+  --ranked-list-fill:color-mix(in srgb,var(--chart-1) 12%,var(--surface));
+  --ranked-list-fill-hover:color-mix(in srgb,var(--chart-1) 22%,var(--surface));
+  --movement-positive:var(--positive);--movement-negative:var(--negative);--movement-total:var(--text);
+  --card-radius:22px;--data-card-radius:22px;--data-card-background:var(--background);--control-radius:16px;--mark-radius:5;
+  --card-shadow:0 1px 4px rgb(0 0 0 / 2%);--shadow:0 8px 26px rgb(0 0 0 / 10%);
+  --data-app-chrome-background:var(--background);--data-app-chrome-text:var(--text);
+}

@@ -1,0 +1,31 @@
+{
+  "version": "paired_fv_screen_v1",
+  "registered_before_cross_predictions": true,
+  "hard_requirements": [
+    "Correct paired H/L lengths and identities",
+    "All framework residues preserved",
+    "Target-chain identity preserved",
+    "Canonical amino acids",
+    "Unique VH/VL sequence pair"
+  ],
+  "contact_distance_A": 4.5,
+  "severe_intercomponent_clash_distance_A": 1.5,
+  "contact_support_models_for_stronger_evidence": 2,
+  "confidence_metric": "Mean directed antibody-target chain-pair ipTM if available; otherwise global ipTM with an explicit fallback flag. Keep each model native score and units.",
+  "consensus": "Median within-engine percentile rank across available models; exclude parent controls from candidate percentiles.",
+  "sort_order": [
+    "Majority extracellular CDR-contact support first",
+    "Consensus confidence percentile descending",
+    "Median cross-predictor binder pose RMSD ascending",
+    "Candidate ID lexical"
+  ],
+  "max_cdr_sequence_identity_to_already_selected": 0.9,
+  "max_selected_per_generation_route": 5,
+  "no_padding_if_insufficient": true,
+  "default_display_structure_preference": [
+    "alphafold3",
+    "boltz2",
+    "esmfold2"
+  ],
+  "interpretation": "Exploratory computational ranking only. Contact/score rules are operational checks, not calibrated binding or experimental success thresholds."
+}

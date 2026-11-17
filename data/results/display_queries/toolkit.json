@@ -1,0 +1,68 @@
+[
+  {
+    "id": "rfd4",
+    "name": "RFD4–Proteina",
+    "stage": "条件设计",
+    "version": "0.0.3 · 68058693",
+    "capability": "生成蛋白及复合物的序列与三维构象，可接受固定片段、结合位点等条件。",
+    "feature": "流匹配式序列—结构协同设计；生成的是受条件约束的候选。",
+    "project_role": "固定犬CD20序列、抗体框架序列与链长，并提供结构条件；开放六个CDR，每参考生成10条，官方quickstart模式关闭额外oracle评分。",
+    "boundary": "输出坐标表示设计构象；本轮没有把RFD4当作固定序列的额外复预测器。",
+    "source": "https://github.com/RosettaCommons/RFD4-Proteina"
+  },
+  {
+    "id": "boltzgen",
+    "name": "BoltzGen",
+    "stage": "条件设计",
+    "version": "0.3.2 · 6472b44e",
+    "capability": "围绕蛋白等靶点设计结合分子；完整流程可连接生成、逆折叠、复折叠和筛选。",
+    "feature": "支持抗体CDR设计和固定区域约束，流程中的不同步骤承担不同任务。",
+    "project_role": "使用antibody-anything协议，只运行design与inverse_folding；每参考生成10条，再交给统一的三预测器检查。",
+    "boundary": "未使用其完整默认折叠/排名流程，避免两条路线采用不同的最终评价口径。",
+    "source": "https://github.com/HannesStark/boltzgen"
+  },
+  {
+    "id": "solublempnn",
+    "name": "SolubleMPNN",
+    "stage": "结构到序列",
+    "version": "BoltzGen逆折叠子步骤",
+    "capability": "给定蛋白骨架，为允许变化的位置选择相容的氨基酸序列。",
+    "feature": "ProteinMPNN的可溶蛋白权重，以残基空间邻域为输入；方向是结构→序列。",
+    "project_role": "为BoltzGen生成的CDR骨架补齐序列，并保留框架固定位置。",
+    "boundary": "它不是第三条独立生成路线，也不直接预测复合物结构、亲和力或实验可溶性。",
+    "source": "https://github.com/dauparas/ProteinMPNN"
+  },
+  {
+    "id": "alphafold3",
+    "name": "AlphaFold 3",
+    "stage": "固定序列预测",
+    "version": "37e3c57f",
+    "capability": "根据已给定的分子序列和组成预测复合物原子坐标，并输出结构置信指标。",
+    "feature": "扩散式全原子结构预测；完整能力覆盖多类生物分子，本轮仅使用蛋白。",
+    "project_role": "输入A/B两条CD20核心和H/L两条可变区序列，重新预测四链体系；保留ipTM、pTM及坐标。",
+    "boundary": "空MSA、无模板；未输入生成器的候选姿态，分数不是实测亲和力。",
+    "source": "https://github.com/google-deepmind/alphafold3"
+  },
+  {
+    "id": "boltz2",
+    "name": "Boltz-2",
+    "stage": "固定序列预测",
+    "version": "2.2.1 · b1ebfc46",
+    "capability": "预测生物分子复合物结构；官方另有针对特定任务的亲和力输出。",
+    "feature": "开放的复合物结构模型，可提供链对界面置信信息。",
+    "project_role": "与AF3接收完全相同的四链序列，独立运行结构预测，比较接触、冲突和相对姿态。",
+    "boundary": "本轮读取的是结构界面分数，没有把小分子亲和力模块当作抗体结合KD。",
+    "source": "https://github.com/jwohlwend/boltz"
+  },
+  {
+    "id": "esmfold2",
+    "name": "ESMFold2 standard",
+    "stage": "固定序列预测",
+    "version": "esm 3.4.2 · 8f0834cb",
+    "capability": "从氨基酸序列预测蛋白及蛋白复合物的全原子结构，可在单序列模式下运行。",
+    "feature": "使用ESMC语言模型表征与扩散结构模块；本轮使用standard权重。",
+    "project_role": "接收同一四链序列，作为第三套预测器，检查跨模型与跨种子的结果差异。",
+    "boundary": "不是旧版ESMFold，也没有使用Fast变体；重复性不等于实验结合验证。",
+    "source": "https://github.com/Biohub/esm"
+  }
+]
